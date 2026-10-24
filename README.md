@@ -1,8 +1,8 @@
 <div align="center">
 
 # 🌟 Kishor Kumar Paroi (KKP)
-### **Principal AI/ML Systems & Medallion Lakehouse Architect • Founder of Koom-AI**
-**Ex-Samsung R&D Institute Bangladesh • Ex-Lead AI Systems Engineer @ Kepi.ai • RUET CSE**
+### **Principal AI Systems Architect • Enterprise Platform & Distributed Systems Leader • Founder of Koom-AI**
+**Ex-phi0.ai (Forward Deployed AI Engineer) • Ex-Samsung AI Core • Ex-Senior Full-Stack & AI Systems Engineer @ kepi.ai • RUET CSE (Merit Rank 483rd)**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=KishorKumarParoi&label=Profile%20Views&color=641c26&style=for-the-badge)](https://github.com/KishorKumarParoi)
 [![Live Telemetry](https://img.shields.io/badge/Telemetry-Live%20Visitors%20API-00c853?style=for-the-badge&logo=prometheus&logoColor=white)](https://re-invent-rust.vercel.app/api/visitors)
@@ -25,6 +25,13 @@ curl -fsSL https://raw.githubusercontent.com/KishorKumarParoi/zomato-analysis/ma
 ```
 
 </div>
+
+> ### ⚡ Executive Bio & Core Focus
+> - 👀 **I’m interested in**: AI Platform Engineering, High-Throughput Distributed Systems, Polyglot Microservice Meshes (Rust 1.85 SIMD, Go 1.24, Python), and Multi-Cloud Medallion Lakehouses (Snowflake, Databricks, PySpark, Delta Lake).
+> - 🌱 **I’m currently working on**: AI Infrastructure, MLOps, LLMOps, Continuous Fine-Tuning Flywheels (vLLM Multi-LoRA, RSLoRA), Model Evaluation (RAGAS, G-Eval, PyRIT Red-Teaming), and Full-Stack Distributed Observability (OpenTelemetry, Prometheus, Grafana).
+> - 💞️ **I’m looking to collaborate on**: Autonomous AI Agents (LangGraph cyclic state machines), Model Context Protocol (FastMCP), Zero-Trust AI Security (BotShield WAF, NVIDIA NeMo Guardrails), Cloud-Native Infrastructure, Kubernetes (GKE, EKS, K3s), and Terraform IaC.
+> - 💬 **Ask me about**: Sub-millisecond SIMD scoring, scaling Delta Lakehouse pipelines to 35M+ records, building $0.00 teardown cloud automation, or solving 1,000+ DSA problems.
+
 
 ---
 
@@ -322,18 +329,28 @@ Principal Systems Architect and Founder with extensive background in **Distribut
 
 ## 💼 Professional Experience
 
-### 🚀 Lead AI Systems & Machine Learning Engineer • Kepi.ai *(July 2026 – Oct 2026)*
-* Architected enterprise agentic microservice fabric and LLM orchestration gateways supporting **10,000+ daily conversational workflows**.
-* Directed transition to **LangGraph cyclic state machines and FastMCP tool gating**, improving complex multi-hop tool execution reliability to **98.4%**.
-* Reduced multi-provider LLM token inference expenses by **$8.4K/month (42%)** through Redis semantic similarity caching (<50ms response).
+### 🚀 Forward Deployed AI Engineer • phi0.ai *(Jul 2026 – Oct 2026 • Europe | Remote)*
+* Orchestrated forward deployment of **5 concurrent autonomous AI agents** executing multi-step tools via **LangGraph**, attaining **99.4% task completion** and accelerating client onboarding by **4x**.
+* Devised high-throughput **Hybrid RAG** with HNSW, BM25, and multi-stage re-ranking (**FlashRank + Cohere v3.5**) under **<35ms semantic cache**; curtailed hallucinations by **46%** and saved **$18K/mo**.
+* Codified continuous **MLOps & GenAI flywheel** with NVIDIA NeMo Guardrails and Canary Kubernetes deployments; spearheaded enterprise AI transformation, securing **$1.4M in client contracts**.
 
-### 🏢 Software Engineer • Samsung R&D Institute Bangladesh *(March 2026 – June 2026)*
-* Engineered high-throughput backend services and streaming telemetry pipelines processing **10M+ device analytics records daily**.
-* Formulated automated unit and integration regression suites, achieving **94%+ test coverage** across mission-critical services.
-* Hardened internal APIs with zero-trust token authentication and rate-limiting, achieving zero security audit regressions.
+### 🏢 Data Engineering & AI Systems • Samsung AI Core / Care Health *(Mar 2026 – Jun 2026)*
+* Formulated batch & streaming pipelines via **AWS S3, EMR, Athena, PySpark**; slashed operational compute overhead by **$4.2K/run (34% savings)** through asynchronous event-driven Lambda/SQS dispatch.
+* Accelerated 8B/70B model inference on H100 GPUs via **FlashAttention-2** and fused kernels; delivered **3.8x throughput** on >32K context windows, mitigating p99 latency by **54%**.
+* Deployed real-time health insurance claim fraud detection pipeline over **AWS Kinesis and OpenTelemetry**; eradicated false-positive claim investigations by **52%**, preserving **$380K annually**.
 
-### 🌟 Founder & Principal Architect • Koom-AI *(2025 – Present)*
+### 🔬 Full-Time Technical Deep Dive: Math, ML/DL, GenAI & MLOps *(Oct 2025 – Feb 2026)*
+* Rigorous hands-on mastery in **Linear Algebra** (SVD, PCA), **Calculus**, and core ML; handcrafted Transformers, Self-Attention, and CNNs from first principles in **PyTorch**.
+* Devised **Hybrid RAG**, **LangGraph multi-agent meshes**, **Big Data Lakehouses** (PySpark Delta Lake, Snowflake, Kafka streams, dbt Core), and MLOps flywheels (**MLflow, Feast, K8s**).
+
+### ⚡ Senior Full Stack Engineer • kepi.ai *(Jan 2022 – Sep 2025 • 3 yrs 9 mos)*
+* Architected zero-downtime microservices migration to **Kubernetes on AWS**; scaled platform throughput by **300%** while curtailing p95 latency by **48%** at 99.99% availability.
+* Spearheaded enterprise AI initiatives: delivered autonomous multi-agent pipelines and scalable LLM microservices, driving a **22% increase in customer LTV**.
+* Fortified zero-trust mesh infrastructure with **Istio mTLS and fine-grained RBAC**; precluded unencrypted service-to-service transit and diminished cross-zone egress costs by **38%**.
+
+### 🌟 Founder & Principal Architect • KoomAI *(Jan 2025 – Dec 2025)*
 * Architected distributed video capture platform and Manifest V3 Chrome Extension serving **10,000+ user sessions**.
+* Devised real-time WebRTC media pipeline (<120ms latency) and Electron desktop client with native NVENC encoding; sustained 60 FPS 1080p across **50K+ active video minutes (-45% CPU)**.
 * Built Next.js 16 web application with AWS S3 parallel multipart uploads and CloudFront edge caching (**58% faster First Contentful Paint**).
 * Integrated Stripe Connect subscription billing and idempotent webhooks, securing **$24K MRR in pilot enterprise adoption**.
 

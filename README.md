@@ -2,12 +2,29 @@
 
 # 🌟 Kishor Kumar Paroi (KKP)
 
-### **Principal AI Systems Architect • Enterprise Platform & Distributed Systems Leader • Founder of Koom-AI**
+### **Principal AI Systems Architect • Enterprise Platform & Distributed Systems Leader**
+#### **Founder of [Koom-AI](https://koom-ai.vercel.app/) • RUET CSE (Merit Rank 483rd in Bangladesh)**
 
-**Ex-phi0.ai (Forward Deployed AI Engineer) • Ex-Samsung AI Core/ Care Health Intern • Ex-Senior Full-Stack & AI Systems Engineer @ kepi.ai •**
-👀 I’m interested in AI Platform engineering.
-🌱 I’m currently working on AI Infrastructure, MLOps, LLMOPs, Evaluation, Observability.
-💞️ I’m looking to collaborate on AI agents, MCP, Cloud, Kubernetes, Terraform.
+<p align="center">
+  <b>💼 Industry Track Record:</b> 
+  <b>phi0.ai</b> <i>(Forward Deployed AI Engineer)</i> &nbsp;•&nbsp; 
+  <b>Samsung AI Core / Care Health</b> <i>(Data Engineering & AI Systems Intern)</i> &nbsp;•&nbsp; 
+  <b>kepi.ai</b> <i>(Senior Full-Stack Engineer)</i>
+</p>
+
+<!-- ✨ Innovative Terminal-Glass Bio Card ✨ -->
+<table align="center" width="100%">
+  <tr>
+    <td align="left" style="padding: 16px 22px; line-height: 1.8;">
+      &nbsp;👀&nbsp; <strong>I’m interested in:</strong> <code>AI Platform Engineering</code>, <code>Distributed Polyglot Systems (Rust/Go/Python)</code> &amp; <code>Medallion Lakehouses</code><br>
+      &nbsp;🌱&nbsp; <strong>I’m currently working on:</strong> <code>AI Infrastructure</code>, <code>MLOps &amp; LLMOps</code>, <code>vLLM Dynamic Multi-LoRA</code>, <code>Model Evaluation (RAGAS / G-Eval)</code> &amp; <code>Full-Stack Observability</code><br>
+      &nbsp;💞️&nbsp; <strong>I’m looking to collaborate on:</strong> <code>Autonomous AI Agents (LangGraph)</code>, <code>Model Context Protocol (FastMCP)</code>, <code>Cloud-Native Kubernetes</code> &amp; <code>Terraform IaC</code><br>
+      &nbsp;💬&nbsp; <strong>Ask me about:</strong> <code>Sub-0.5ms Rust SIMD Scoring</code>, <code>35M+ Delta Lakehouse Pipelines</code>, <code>$0.00 Automated Cloud Teardown</code> &amp; <code>1000+ Algorithmic Solutions</code>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=KishorKumarParoi&label=Profile%20Views&color=641c26&style=for-the-badge)](https://github.com/KishorKumarParoi)
 [![Live Telemetry](https://img.shields.io/badge/Telemetry-Live%20Visitors%20API-00c853?style=for-the-badge&logo=prometheus&logoColor=white)](https://re-invent-rust.vercel.app/api/visitors)
@@ -30,13 +47,6 @@ curl -fsSL https://raw.githubusercontent.com/KishorKumarParoi/zomato-analysis/ma
 ```
 
 </div>
-
-> ### ⚡ Executive Bio & Core Focus
->
-> - 👀 **I’m interested in**: AI Platform Engineering, High-Throughput Distributed Systems, Polyglot Microservice Meshes (Rust 1.85 SIMD, Go 1.24, Python), and Multi-Cloud Medallion Lakehouses (Snowflake, Databricks, PySpark, Delta Lake).
-> - 🌱 **I’m currently working on**: AI Infrastructure, MLOps, LLMOps, Continuous Fine-Tuning Flywheels (vLLM Multi-LoRA, RSLoRA), Model Evaluation (RAGAS, G-Eval, PyRIT Red-Teaming), and Full-Stack Distributed Observability (OpenTelemetry, Prometheus, Grafana).
-> - 💞️ **I’m looking to collaborate on**: Autonomous AI Agents (LangGraph cyclic state machines), Model Context Protocol (FastMCP), Zero-Trust AI Security (BotShield WAF, NVIDIA NeMo Guardrails), Cloud-Native Infrastructure, Kubernetes (GKE, EKS, K3s), and Terraform IaC.
-> - 💬 **Ask me about**: Sub-millisecond SIMD scoring, scaling Delta Lakehouse pipelines to 35M+ records, building $0.00 teardown cloud automation, or solving 1,000+ DSA problems.
 
 ---
 
@@ -62,22 +72,23 @@ Principal Systems Architect and Founder with extensive background in **Distribut
 | **AI Gateway & Semantic Caching** | Portkey Gateway + LangGraph checkpoints (<50ms) | **$8.4K/month saved via 42% semantic cache hit rate** |
 | **Koom-AI Workspace Intelligence** | Manifest V3 Chrome Extension + Next.js 16 + S3 Multipart | **$24K MRR in enterprise pilot adoption; 58% faster FCP** |
 | **Zero-Trust AI Defense (BotShield)** | NVIDIA NeMo Guardrails + Honeypot Trapping | **99.4% adversarial probes intercepted; zero PII leaks** |
+| **User Survival MLOps Platform** | Astro Airflow + Redis Feature Store + Alibi KS Drift | **Sub-2ms feature retrieval; 88.9% accuracy; automated drift alerts** |
 
 ---
 
-## 🚀 14 Flagship Production Projects Showcase
+## 🚀 15 Flagship Production Projects Showcase
 
 > Every project features a **single-command zero-touch bootstrapper** (`bootstrap.sh`) and deterministic **$0.00 teardown** (`clear.sh`). Click any project to inspect its architecture and live repository.
 
 ```
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
-│                               14 FLAGSHIP ARCHITECTURES                                │
+│                               15 FLAGSHIP ARCHITECTURES                                │
 │                                                                                        │
 │  [01] Zomato Lakehouse      [06] Autonomous Chatbot      [11] Rust Git Engine          │
-│  [02] Hybrid Anime LLMOps   [07] Data Agent SQL BI       [12] Koom-AI Video Platform   │
-│  [03] AI Security Gateway   [08] Azure Network ETL       [13] re:invent 3D Platform    │
-│  [04] Smart Manufacturing   [09] AWS SageMaker MLOps     [14] macOS Tahoe Portfolio    │
-│  [05] Nexus-AI Lakehouse    [10] Realtime MLOps KServe                                 │
+│  [02] Hybrid Anime LLMOps   [07] Data Agent SQL BI       [12] User Survival MLOps      │
+│  [03] AI Security Gateway   [08] Azure Network ETL       [13] Koom-AI Video Platform   │
+│  [04] Smart Manufacturing   [09] AWS SageMaker MLOps     [14] re:invent 3D Platform    │
+│  [05] Nexus-AI Lakehouse    [10] Realtime MLOps KServe   [15] macOS Tahoe Portfolio    │
 └────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -270,8 +281,21 @@ Principal Systems Architect and Founder with extensive background in **Distribut
 
 ---
 
-### 12. 📹 Koom-AI: Enterprise Video Intelligence & Workspace Platform
->
+### 12. 🚢 User Survival Prediction & MLOps Infrastructure Platform
+> **Astro Airflow DAGs • Redis Low-Latency Feature Store • Alibi Detect KS Drift • Prometheus & Grafana**
+
+- **Architecture**: Enterprise-grade MLOps platform featuring **Astro Airflow ETL orchestration** (`dags/`) for automated batch feature extraction, serializing features into a low-latency **Redis Feature Store** (`entity:id:features`) with automated in-memory fallback (<2ms retrieval).
+- **Statistical Drift & Telemetry**: Continuous covariate distribution monitoring with **Alibi Detect Kolmogorov-Smirnov 2-sample tests**, triggering real-time Prometheus alert flags upon data divergence.
+- **Serving & Observability**: Production Flask REST endpoint (`/api/predict`) with an optimized Random Forest classifier (**88.9% Holdout Accuracy**) and live Prometheus `/metrics` scraping into Grafana dashboards (:3000).
+- **Quick Deploy**:
+  ```bash
+  curl -fsSL https://raw.githubusercontent.com/KishorKumarParoi/User-Survival-Prediction/main/bootstrap.sh | bash
+  ```
+- 🔗 **Repository**: [KishorKumarParoi/User-Survival-Prediction](https://github.com/KishorKumarParoi/User-Survival-Prediction) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/User-Survival-Prediction/blob/main/ARCHITECTURE.md)
+
+---
+
+### 13. 📹 Koom-AI: Enterprise Video Intelligence & Workspace Platform
 > **Next.js 16 App Router • Manifest V3 Chrome Extension • WebRTC • Stripe Connect**
 
 - **Founder Architecture**: Distributed screen recording and real-time video intelligence platform serving **10,000+ user sessions**.
@@ -281,8 +305,7 @@ Principal Systems Architect and Founder with extensive background in **Distribut
 
 ---
 
-### 13. 🎨 re:invent: Interactive 3D Platform & Real-Time Visitor Telemetry
->
+### 14. 🎨 re:invent: Interactive 3D Platform & Real-Time Visitor Telemetry
 > **React 19.2 • Three.js • GSAP 3.13 • Rolldown Vite • Supabase PostgreSQL Telemetry**
 
 - **Architecture**: High-performance 3D portfolio ecosystem with React 19.2, Rolldown Vite, and Tailwind CSS v4; GSAP 3.13 + ScrollTrigger 3D camera choreography and interactive Bento showcase grids.
@@ -291,8 +314,7 @@ Principal Systems Architect and Founder with extensive background in **Distribut
 
 ---
 
-### 14. 🍏 macOS Tahoe: Interactive Apple Silicon OS Portfolio in React & GSAP
->
+### 15. 🍏 macOS Tahoe: Interactive Apple Silicon OS Portfolio in React & GSAP
 > **React 19 • GSAP Draggable • Minimax AI Chess Engine • Fire Particle Terminal • ATS Resume**
 
 - **Architecture**: Interactive recreation of Apple Silicon macOS desktop featuring fluid multi-window management, persistent Z-index stacking, and native draggable Finder navigation.

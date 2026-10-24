@@ -27,15 +27,20 @@
 <br>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=KishorKumarParoi&label=Profile%20Views&color=641c26&style=for-the-badge)](https://github.com/KishorKumarParoi)
+[![Resume PDF](https://img.shields.io/badge/Resume-Download%20PDF-641C26?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./resume.pdf)
+[![Single Column Resume](https://img.shields.io/badge/ATS%20Resume-Single%20Column%20PDF-8E2835?style=for-the-badge&logo=googledocs&logoColor=white)](./resume_single_column.pdf)
+[![Word Document](https://img.shields.io/badge/Resume-Word%20DOCX-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)](./resume.docx)
 [![Live Telemetry](https://img.shields.io/badge/Telemetry-Live%20Visitors%20API-00c853?style=for-the-badge&logo=prometheus&logoColor=white)](https://re-invent-rust.vercel.app/api/visitors)
 [![macOS Portfolio](https://img.shields.io/badge/macOS%20Portfolio-Live%20OS%20Web-0071e3?style=for-the-badge&logo=apple&logoColor=white)](https://kishor-paroi.vercel.app/)
 [![re:invent 3D](https://img.shields.io/badge/re:invent-3D%20Experience-ff9900?style=for-the-badge&logo=three.js&logoColor=white)](https://re-invent-rust.vercel.app/)
 [![Koom-AI](https://img.shields.io/badge/Koom--AI-Video%20Platform-7928ca?style=for-the-badge&logo=vercel&logoColor=white)](https://koom-ai.vercel.app/)
 
 <p align="center">
-  <a href="https://linkedin.com/in/kishor-kumar-paroi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:Kishor.ruet.cse@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://wa.me/8801724714156?text=Hi%20Kishor,%20I%20saw%20your%20GitHub%20profile."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://linkedin.com/in/kishor-kumar-paroi-b06344166"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:kishor.ruet.cse@gmail.com"><img src="https://img.shields.io/badge/Email-kishor.ruet.cse@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:1703053@student.ruet.ac.bd"><img src="https://img.shields.io/badge/Institutional-1703053@student.ruet.ac.bd-641C26?style=flat-square&logo=academic&logoColor=white" alt="RUET Institutional Email" /></a>
+  <a href="https://wa.me/8801724714156?text=Hi%20Kishor,%20I%20saw%20your%20GitHub%20profile."><img src="https://img.shields.io/badge/WhatsApp-+8801724714156-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://x.com/Mr_paroi"><img src="https://img.shields.io/badge/Twitter-@Mr__paroi-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter" /></a>
   <a href="https://codeforces.com/profile/Kishor_Kumar"><img src="https://img.shields.io/badge/Codeforces-Div2_Rank_232-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
   <a href="https://leetcode.com/u/KishorKumarParoi/"><img src="https://img.shields.io/badge/LeetCode-1000+_Solved-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
   <a href="https://codechef.com/users/kishor_ruet"><img src="https://img.shields.io/badge/CodeChef-5★_Coder-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef" /></a>
@@ -418,38 +423,96 @@ Principal Systems Architect and Founder with extensive background in **Distribut
 
 ### 🚀 Forward Deployed AI Engineer • phi0.ai *(Jul 2026 – Oct 2026 • Europe | Remote)*
 
-- Orchestrated forward deployment of **5 concurrent autonomous AI agents** executing multi-step tools via **LangGraph**, attaining **99.4% task completion** and accelerating client onboarding by **4x**.
-
-- Devised high-throughput **Hybrid RAG** with HNSW, BM25, and multi-stage re-ranking (**FlashRank + Cohere v3.5**) under **<35ms semantic cache**; curtailed hallucinations by **46%** and saved **$18K/mo**.
-- Codified continuous **MLOps & GenAI flywheel** with NVIDIA NeMo Guardrails and Canary Kubernetes deployments; spearheaded enterprise AI transformation, securing **$1.4M in client contracts**.
+- Orchestrated forward deployment of **5 concurrent autonomous AI agents** executing multi-step tools, cyclic state machines (**LangGraph**), and dynamic routing; attained **99.4% task completion** under complex enterprise workloads, accelerating client onboarding by **4x**.
+- Devised high-throughput **Hybrid RAG engine** combining dense HNSW vector search, sparse BM25, and multi-stage re-ranking (**FlashRank ONNX + Cohere v3.5**) with semantic caching (**<35ms latency**); curtailed hallucinations by **46%** and diminished LLM token expenditure by **$18K/month**.
+- Codified continuous **MLOps & GenAI flywheel** featuring NVIDIA NeMo Guardrails, autonomous PII scrubbing, and canary model rollouts on **Kubernetes**; eradicated model regressions and spearheaded enterprise AI transformation, securing **$1.4M in enterprise contracts**.
 
 ### 🏢 Data Engineering & AI Systems • Samsung AI Core / Care Health *(Mar 2026 – Jun 2026)*
 
-- Formulated batch & streaming pipelines via **AWS S3, EMR, Athena, PySpark**; slashed operational compute overhead by **$4.2K/run (34% savings)** through asynchronous event-driven Lambda/SQS dispatch.
-
-- Accelerated 8B/70B model inference on H100 GPUs via **FlashAttention-2** and fused kernels; delivered **3.8x throughput** on >32K context windows, mitigating p99 latency by **54%**.
-- Deployed real-time health insurance claim fraud detection pipeline over **AWS Kinesis and OpenTelemetry**; eradicated false-positive claim investigations by **52%**, preserving **$380K annually**.
+- Formulated batch & streaming pipelines via **AWS S3, EMR, Athena, PySpark**; slashed operational compute overhead by **$4.2K/run (34% savings)** via event-driven AWS Lambda/SQS asynchronous worker dispatch.
+- Accelerated 8B/70B LLM inference on NVIDIA H100 GPUs via **FlashAttention-2** and custom fused CUDA kernels; realized **3.8x throughput** on >32K context windows, mitigating p99 latency by **54%**.
+- Spearheaded multi-node fine-tuning with **PyTorch FSDP and DeepSpeed ZeRO-3** alongside HIPAA-compliant de-identification; trimmed training wall-clock time by **42% ($14K saved/run)** and preparation overhead by **65%**.
+- Deployed real-time health insurance claim fraud detection pipeline over **AWS Kinesis and OpenTelemetry**; preempted false-positive claim investigations by **52%**, preserving **$380K annually across high-risk audits**.
 
 ### 🔬 Full-Time Technical Deep Dive: Math, ML/DL, GenAI & MLOps *(Oct 2025 – Feb 2026)*
 
-- Rigorous hands-on mastery in **Linear Algebra** (SVD, PCA), **Calculus**, and core ML; handcrafted Transformers, Self-Attention, and CNNs from first principles in **PyTorch**.
-
-- Devised **Hybrid RAG**, **LangGraph multi-agent meshes**, **Big Data Lakehouses** (PySpark Delta Lake, Snowflake, Kafka streams, dbt Core), and MLOps flywheels (**MLflow, Feast, K8s**).
+- **Mathematical Foundations**: Rigorous deep dive into **Linear Algebra** (SVD, Eigenvalues, PCA, Matrix Decompositions) and **Multivariate Calculus** (Gradient Descent dynamics, Backpropagation, loss manifolds, convex optimization).
+- **Hands-on ML, DL & NLP**: Crafted architectures from first principles in **PyTorch** (Transformers, Multi-Head Self-Attention, CNNs, tokenizers, custom loss functions), mastering modern representation learning.
+- **GenAI, RAG & Agentic AI**: Built production pipelines using **Hybrid RAG (HNSW + BM25 + Cross-Encoder Reranking)**, **LangGraph cyclic state machines**, FastMCP tool execution, and NVIDIA NeMo guardrails.
+- **Big Data Engineering & Lakehouses**: Mastered distributed data systems & Medallion Lakehouses (Zach Wilson, Mayank Agarwal) across **Apache Spark, Delta Lake, Snowflake, dbt Core SCD-2, Apache Kafka** streaming, and Debezium CDC.
+- **Production MLOps**: Instituted continuous experimentation and deployment pipelines using **MLflow, DVC, Feast Feature Store**, Docker, and Kubernetes for low-latency serving.
 
 ### ⚡ Senior Full Stack Engineer • kepi.ai *(Jan 2022 – Sep 2025 • 3 yrs 9 mos)*
 
-- Architected zero-downtime microservices migration to **Kubernetes on AWS**; scaled platform throughput by **300%** while curtailing p95 latency by **48%** at 99.99% availability.
-
-- Spearheaded enterprise AI initiatives: delivered autonomous multi-agent pipelines and scalable LLM microservices, driving a **22% increase in customer LTV**.
+- Architected zero-downtime microservices migration to **Kubernetes on AWS EKS**; scaled platform throughput by **300%** while curtailing p95 latency by **48%** at 99.99% multi-region availability.
+- Spearheaded enterprise AI initiatives: delivered autonomous multi-agent pipelines and scalable LLM microservices, driving a **22% sustained increase in customer LTV**.
 - Fortified zero-trust mesh infrastructure with **Istio mTLS and fine-grained RBAC**; precluded unencrypted service-to-service transit and diminished cross-zone egress costs by **38%**.
+- Designed event-driven asynchronous processing core using **Redis Streams and Celery**; sustained **15M+ daily async background tasks** with zero message loss under 4x traffic surges.
 
-### 🌟 Founder & Principal Architect • KoomAI *(Jan 2025 – Dec 2025)*
+### 🍕 Full Stack Engineer • foodpanda *(2021 – 2022)*
 
-- Architected distributed video capture platform and Manifest V3 Chrome Extension serving **10,000+ user sessions**.
+- Crafted high-traffic checkout microservices with **Next.js and MERN stack**; trimmed latency by **34%** and sustained **100K+ daily peak orders** at 99.98% uptime, averting **$120K in checkout cart abandonment**.
 
-- Devised real-time WebRTC media pipeline (<120ms latency) and Electron desktop client with native NVENC encoding; sustained 60 FPS 1080p across **50K+ active video minutes (-45% CPU)**.
-- Built Next.js 16 web application with AWS S3 parallel multipart uploads and CloudFront edge caching (**58% faster First Contentful Paint**).
-- Integrated Stripe Connect subscription billing and idempotent webhooks, securing **$24K MRR in pilot enterprise adoption**.
+---
+
+### 🌟 Founder Experience & Startup Platform: KoomAI *(Jan 2025 – Dec 2025)*
+
+> **High-Performance Asynchronous Video Intelligence Platform (Loom Alternative)** • [Live Demo](https://koom-ai.vercel.app/) • [GitHub Full-Stack](https://github.com/KishorKumarParoi/Koom-AI) • [Desktop](https://github.com/KishorKumarParoi/Koom-ai-desktop) • [Extension](https://github.com/KishorKumarParoi/Koom-AI-Chrome-Extension) • [Backend](https://github.com/KishorKumarParoi/koom-ai-express)
+
+- **WebRTC Low-Latency Engine**: Devised real-time WebRTC media pipeline (**<120ms** glass-to-glass latency) with adaptive bitrate streaming (SVC) and packet-loss concealment; sustained **60 FPS 1080p video with 0% stutter across 50K+ active video minutes (-45% CPU)**.
+- **ElectronJS Desktop Client**: Crafted cross-platform desktop application leveraging native OS-level IPC audio/display capture, hardware-accelerated NVENC/VideoToolbox encoding, and background daemon; curtailed idle CPU utilization by **45%**.
+- **Chrome Extension (Manifest V3)**: Developed lightweight screen-recording browser extension utilizing offscreen documents for synchronized tab/mic audio mixing, capturing **10K+ user recordings**.
+- **Next.js 16 Cockpit & Express CDN**: Built responsive cockpit with **Next.js 16 App Router**, Express backend with **AWS S3 multipart uploads** and CloudFront delivery; accelerated FCP by **58%** and slashed video storage expenses by **62%**.
+- **Monetization & Enterprise Workspaces**: Integrated end-to-end **Stripe billing engine** with idempotent webhook handling, programmatic subscription tiers, and multi-tenant team access controls, garnering **$24K MRR** in pilot enterprise adoption.
+
+---
+
+## 🎓 Academic Background & Formal Education
+
+<table align="center" width="100%">
+  <thead>
+    <tr style="background-color: rgba(100, 28, 38, 0.1);">
+      <th align="center">Year</th>
+      <th align="left">Degree / Certificate</th>
+      <th align="left">Institute / Board</th>
+      <th align="center">Result / CPI</th>
+      <th align="left">Merit Rank & Honors</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><b>2018 – 2023</b></td>
+      <td><b>B.Sc. in Computer Science & Engineering</b></td>
+      <td><b>Rajshahi University of Engineering & Technology (RUET)</b></td>
+      <td align="center"><b>3.25 / 4.00 (D.O)</b></td>
+      <td><b>Rank 483rd in Bangladesh in Admission Merit</b></td>
+    </tr>
+    <tr>
+      <td align="center"><b>2015 – 2017</b></td>
+      <td>Higher Secondary Certificate (HSC)</td>
+      <td>Saint Joseph Higher Secondary School (Dhaka)</td>
+      <td align="center"><b>5.00 / 5.00</b></td>
+      <td><b>Rank 85th</b> in Dhaka Board (National Merit Scholarship)</td>
+    </tr>
+    <tr>
+      <td align="center"><b>2013 – 2015</b></td>
+      <td>Secondary School Certificate (SSC)</td>
+      <td>S.J Govt Model High School (Gopalganj)</td>
+      <td align="center"><b>5.00 / 5.00</b></td>
+      <td><b>Rank 90th</b> in Dhaka Board (National Merit Scholarship)</td>
+    </tr>
+  </tbody>
+</table>
+
+> **Core Computer Science Curriculum (RUET)**:
+> Advanced Data Structures & Algorithms • Object-Oriented Programming (C++/Java) • Operating Systems & Systems Programming • Database Management Systems (DBMS) • Distributed Systems & Cloud Computing • Computer Networks & Internet Protocols • Theory of Computation & Automata • Compiler Design • Software Engineering & System Analysis • Computer Architecture • Artificial Intelligence • Microprocessors & Interfacing • Discrete Mathematics • Network Security & Cryptography.
+
+---
+
+## 🌟 Leadership, Technical Mentoring & Community Impact
+
+- **In-Person AI Agents Building Masterclass**: Conducted immersive hands-on in-person workshops on architecting autonomous AI Agents, cyclic state machines (**LangGraph**), tool calling, and production deployment.
+- **Technical Mentorship & Community Impact**: Mentored **100+ students & engineers** across **Machine Learning, AI Agents, DevOps, and MLOps**, leading code reviews, production architecture design sessions, and career roadmapping.
 
 ---
 
@@ -460,15 +523,14 @@ Principal Systems Architect and Founder with extensive background in **Distribut
 - **Inter-University Programming Contest (IUPC)**: Ranked **17th in Bangladesh**
 - **Meta Hacker Cup**: Round 3 Qualifier
 - **LeetCode**: **1,000+ DSA Problems Solved** with algorithmic optimality across Graphs, DP, Trees, and Geometry
-- **Technobeast AI Agents Hackathon**: **Champion (1st Place)**
-- **AI Security Hackathon**: **7th Place Nationally** (Real-time prompt injection firewall, 97.2% precision)
+- **Technobeast AI Agents Hackathon**: **Champion (1st Place)** — Pioneered Qdrant vector optimization with negative embeddings, trajectory matching with transformers, and multimodal API divergence detection.
+- **AI Security Hackathon**: **7th Place Nationally** — Real-time prompt injection firewall (**97.2% precision, <30ms latency**).
 - **Academic Merit**: Graduated B.Sc. in Computer Science & Engineering from **RUET (Rank 483rd in Bangladesh in Admission Merit)**; **Rank 85th in Dhaka Board (HSC)**, **Rank 90th in Dhaka Board (SSC)**.
-- **Certifications**:
-  - Deep Learning Specialization (DeepLearning.AI & Stanford – Andrew Ng)
-  - Machine Learning Specialization (Stanford Online & DeepLearning.AI – Andrew Ng)
-  - Enterprise Production MLOps & Systems Architecture (Krish Naik, Vivian Aranha, Mayank Agarwal)
-
----
+- **Certifications & Specializations**:
+  - **Deep Learning Specialization** (DeepLearning.AI & Stanford – Andrew Ng): Neural Networks, CNNs, Sequence Models, Attention Mechanisms & Transformers.
+  - **Machine Learning Specialization** (Stanford Online & DeepLearning.AI – Andrew Ng): Supervised Learning, Advanced Learning Algorithms, Unsupervised Learning, Recommenders.
+  - **Enterprise Production MLOps & Systems Architecture** (Krish Naik, Vivian Aranha, Mayank Agarwal)
+  - **Distributed Systems & High-Throughput Architecture** (Arpit Bhayani, Gaurav Sen, ByteByteGo, Zach Wilson)
 
 ## 📊 Live GitHub Activity & Statistics
 

@@ -94,6 +94,30 @@ Principal Systems Architect and Founder with extensive background in **Distribut
 
 ---
 
+## 📐 System Architecture Blueprints & Visual Assets (`docs/images`)
+
+> Every repository maintains a dedicated **[`docs/images/`](https://github.com/KishorKumarParoi)** visual gallery, production runbook **`README.md`**, and mathematical/SLO specification **`ARCHITECTURE.md`** for interviewers and architects evaluating high-level system designs, throughput guarantees, and failover topologies at a glance.
+
+| Project Architecture | Blueprint & Component Topology | Documentation Suite (`docs/images` & `README`) |
+| :--- | :--- | :--- |
+| **01. Zomato AI Lakehouse** | Debezium CDC → Airflow → Snowflake / PySpark Delta Lake → Feast Feature Store → CV Engine | [README.md](https://github.com/KishorKumarParoi/zomato-analysis/blob/main/README.md) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/zomato-analysis/blob/main/ARCHITECTURE.md) • [`docs/images/`](https://github.com/KishorKumarParoi/zomato-analysis/tree/main/docs/images) |
+| **02. Hybrid Anime LLMOps** | Go 1.24 Auth → Kafka Mesh → Rust 1.85 SIMD (<0.5ms) → vLLM Multi-LoRA Dynamic Multiplexing | [README.md](https://github.com/KishorKumarParoi/Hybrid-Anime-Recommender/blob/main/README.md) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/Hybrid-Anime-Recommender/blob/main/ARCHITECTURE.md) • [`docs/images/`](https://github.com/KishorKumarParoi/Hybrid-Anime-Recommender/tree/main/docs/images) |
+| **03. AI Security & RAG** | BotShield WAF → NVIDIA NeMo Guardrails → LangGraph Stateful Agents → FastMCP Tool Gating | [README.md](https://github.com/KishorKumarParoi/AI_Security_Production_App/blob/main/README.md) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/AI_Security_Production_App/blob/main/ARCHITECTURE.md) • [`docs/images/`](https://github.com/KishorKumarParoi/AI_Security_Production_App/tree/main/docs/images) |
+| **04. Smart Manufacturing** | OPC-UA Sensors → Rust SIMD Pre-filter → PyTorch Autoencoders (<20ms) → GKE / K3s CNCF | [README.md](https://github.com/KishorKumarParoi/smart-manufacturing/blob/main/README.md) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/smart-manufacturing/blob/main/ARCHITECTURE.md) • [`docs/images/`](https://github.com/KishorKumarParoi/smart-manufacturing/tree/main/docs/images) |
+| **05. Nexus-AI Lakehouse** | Multi-Cloud Terraform → Bronze-Silver-Gold Marts (DuckDB <120ms) → 5-Agent LangGraph Mesh | [README.md](https://github.com/KishorKumarParoi/Nexus_AI/blob/main/README.md) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/Nexus_AI/blob/main/ARCHITECTURE.md) • [`docs/images/`](https://github.com/KishorKumarParoi/Nexus_AI/tree/main/docs/images) |
+| **06. Autonomous Chatbot** | LangGraph Cyclic State Machines → PostgreSQL Checkpoints → HITL Financial Gates → Qdrant RAG | [README.md](https://github.com/KishorKumarParoi/Advanced_AI_Chatbot_Project/blob/main/README.md) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/Advanced_AI_Chatbot_Project/blob/main/ARCHITECTURE.md) • [`docs/images/`](https://github.com/KishorKumarParoi/Advanced_AI_Chatbot_Project/tree/main/docs/images) |
+| **07. Data Agent SQL BI** | LangGraph Supervisor Router → Schema Introspection → Self-Healing SQL Retry → ReAct Sandbox | [README.md](https://github.com/KishorKumarParoi/Data-Agent/blob/main/README.md) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/Data-Agent/blob/main/ARCHITECTURE.md) • [`docs/images/`](https://github.com/KishorKumarParoi/Data-Agent/tree/main/docs/images) |
+| **08. Azure Network Lakehouse** | ADF v2 Batch Ingestion → ADLS Gen2 → Databricks Spark → Synapse CETAS → Sub-4ms ONNX | [README.md](https://github.com/KishorKumarParoi/Advanced_ETL_Project/blob/main/README.md) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/Advanced_ETL_Project/blob/main/ARCHITECTURE.md) • [`docs/images/`](https://github.com/KishorKumarParoi/Advanced_ETL_Project/tree/main/docs/images) |
+| **09. AWS SageMaker MLOps** | SageMaker DAG Pipelines → Managed Spot Training (-70% cost) → Model Registry → Drift Alerts | [README.md](https://github.com/KishorKumarParoi/Aws-Sagemaker/blob/main/README.md) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/Aws-Sagemaker/blob/main/ARCHITECTURE.md) • [`docs/images/`](https://github.com/KishorKumarParoi/Aws-Sagemaker/tree/main/docs/images) |
+| **10. Realtime MLOps KServe** | KServe v1beta1 Scale-to-Zero → AWS ECS Fargate → Terraform IaC → Trivy CI/CD Security Gating | [README.md](https://github.com/KishorKumarParoi/realtime-mlops/blob/main/README.md) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/realtime-mlops/blob/main/ARCHITECTURE.md) • [`docs/images/`](https://github.com/KishorKumarParoi/realtime-mlops/tree/main/docs/images) |
+| **11. Rust Git Engine** | Bare-Metal Rust 1.85 SHA-1 Graph → Streaming SIMD Zlib → Zero-Copy Memory-Mapped I/O | [README.md](https://github.com/KishorKumarParoi/codecrafters-git-rust/blob/main/README.md) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/codecrafters-git-rust/blob/main/ARCHITECTURE.md) • [`docs/images/`](https://github.com/KishorKumarParoi/codecrafters-git-rust/tree/main/docs/images) |
+| **12. User Survival MLOps** | Astro Airflow DAGs → Redis Feature Store (<2ms) → Alibi KS Drift Telemetry → Prometheus / Grafana | [README.md](https://github.com/KishorKumarParoi/User-Survival-Prediction/blob/main/README.md) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/User-Survival-Prediction/blob/main/ARCHITECTURE.md) • [`docs/images/`](https://github.com/KishorKumarParoi/User-Survival-Prediction/tree/main/docs/images) |
+| **13. Koom-AI Video Platform** | Manifest V3 Chrome Extension → WebRTC Low-Latency Engine → Next.js 16 RSC → S3 CDN | [README.md](https://github.com/KishorKumarParoi/koom-ai/blob/main/README.md) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/koom-ai/blob/main/ARCHITECTURE.md) • [`docs/images/`](https://github.com/KishorKumarParoi/koom-ai/tree/main/docs/images) |
+| **14. re:invent 3D Platform** | React 19.2 + Three.js + GSAP 3.13 → Supabase PostgreSQL Visitor Telemetry API | [README.md](https://github.com/KishorKumarParoi/re-invent/blob/main/README.md) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/re-invent/blob/main/ARCHITECTURE.md) • [`docs/images/`](https://github.com/KishorKumarParoi/re-invent/tree/main/docs/images) |
+| **15. macOS Tahoe Desktop OS** | React 19 + GSAP Draggable OS Chrome → Minimax AI Chess Engine → Particle Terminal | [README.md](https://github.com/KishorKumarParoi/macos-portofolio/blob/main/README.md) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/macos-portofolio/blob/main/ARCHITECTURE.md) • [`docs/images/`](https://github.com/KishorKumarParoi/macos-portofolio/tree/main/docs/images) |
+
+---
+
 ### 1. 🍔 Zomato AI Lakehouse & Multimodal Dispute Platform
 >
 > **Snowflake • PySpark Delta Lake • dbt SCD-2 • Feast Feature Store • Computer Vision Anti-Fraud**
@@ -107,7 +131,7 @@ Principal Systems Architect and Founder with extensive background in **Distribut
   curl -fsSL https://raw.githubusercontent.com/KishorKumarParoi/zomato-analysis/main/bootstrap.sh | bash
   ```
 
-- 🔗 **Repository**: [KishorKumarParoi/zomato-analysis](https://github.com/KishorKumarParoi/zomato-analysis) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/zomato-analysis/blob/main/ARCHITECTURE.md)
+- 🔗 **Repository**: [KishorKumarParoi/zomato-analysis](https://github.com/KishorKumarParoi/zomato-analysis) • [README.md](https://github.com/KishorKumarParoi/zomato-analysis/blob/main/README.md) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/zomato-analysis/blob/main/ARCHITECTURE.md) • [docs/images](https://github.com/KishorKumarParoi/zomato-analysis/tree/main/docs/images)
 
 ---
 
@@ -124,7 +148,7 @@ Principal Systems Architect and Founder with extensive background in **Distribut
   curl -fsSL https://raw.githubusercontent.com/KishorKumarParoi/Hybrid-Anime-Recommender/main/bootstrap.sh | bash
   ```
 
-- 🔗 **Repository**: [KishorKumarParoi/Hybrid-Anime-Recommender](https://github.com/KishorKumarParoi/Hybrid-Anime-Recommender) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/Hybrid-Anime-Recommender/blob/main/ARCHITECTURE.md)
+- 🔗 **Repository**: [KishorKumarParoi/Hybrid-Anime-Recommender](https://github.com/KishorKumarParoi/Hybrid-Anime-Recommender) • [README.md](https://github.com/KishorKumarParoi/Hybrid-Anime-Recommender/blob/main/README.md) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/Hybrid-Anime-Recommender/blob/main/ARCHITECTURE.md) • [docs/images](https://github.com/KishorKumarParoi/Hybrid-Anime-Recommender/tree/main/docs/images)
 
 ---
 
@@ -141,7 +165,7 @@ Principal Systems Architect and Founder with extensive background in **Distribut
   curl -fsSL https://raw.githubusercontent.com/KishorKumarParoi/AI_Security_Production_App/main/bootstrap.sh | bash
   ```
 
-- 🔗 **Repository**: [KishorKumarParoi/AI_Security_Production_App](https://github.com/KishorKumarParoi/AI_Security_Production_App) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/AI_Security_Production_App/blob/main/ARCHITECTURE.md)
+- 🔗 **Repository**: [KishorKumarParoi/AI_Security_Production_App](https://github.com/KishorKumarParoi/AI_Security_Production_App) • [README.md](https://github.com/KishorKumarParoi/AI_Security_Production_App/blob/main/README.md) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/AI_Security_Production_App/blob/main/ARCHITECTURE.md) • [docs/images](https://github.com/KishorKumarParoi/AI_Security_Production_App/tree/main/docs/images)
 
 ---
 
@@ -158,7 +182,7 @@ Principal Systems Architect and Founder with extensive background in **Distribut
   curl -fsSL https://raw.githubusercontent.com/KishorKumarParoi/smart-manufacturing/main/bootstrap.sh | bash
   ```
 
-- 🔗 **Repository**: [KishorKumarParoi/smart-manufacturing](https://github.com/KishorKumarParoi/smart-manufacturing) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/smart-manufacturing/blob/main/ARCHITECTURE.md)
+- 🔗 **Repository**: [KishorKumarParoi/smart-manufacturing](https://github.com/KishorKumarParoi/smart-manufacturing) • [README.md](https://github.com/KishorKumarParoi/smart-manufacturing/blob/main/README.md) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/smart-manufacturing/blob/main/ARCHITECTURE.md) • [docs/images](https://github.com/KishorKumarParoi/smart-manufacturing/tree/main/docs/images)
 
 ---
 
@@ -175,7 +199,7 @@ Principal Systems Architect and Founder with extensive background in **Distribut
   curl -fsSL https://raw.githubusercontent.com/KishorKumarParoi/Nexus_AI/main/bootstrap.sh | bash
   ```
 
-- 🔗 **Repository**: [KishorKumarParoi/Nexus_AI](https://github.com/KishorKumarParoi/Nexus_AI) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/Nexus_AI/blob/main/ARCHITECTURE.md)
+- 🔗 **Repository**: [KishorKumarParoi/Nexus_AI](https://github.com/KishorKumarParoi/Nexus_AI) • [README.md](https://github.com/KishorKumarParoi/Nexus_AI/blob/main/README.md) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/Nexus_AI/blob/main/ARCHITECTURE.md) • [docs/images](https://github.com/KishorKumarParoi/Nexus_AI/tree/main/docs/images)
 
 ---
 
@@ -192,7 +216,7 @@ Principal Systems Architect and Founder with extensive background in **Distribut
   curl -fsSL https://raw.githubusercontent.com/KishorKumarParoi/Advanced_AI_Chatbot_Project/main/bootstrap.sh | bash
   ```
 
-- 🔗 **Repository**: [KishorKumarParoi/Advanced_AI_Chatbot_Project](https://github.com/KishorKumarParoi/Advanced_AI_Chatbot_Project) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/Advanced_AI_Chatbot_Project/blob/main/ARCHITECTURE.md)
+- 🔗 **Repository**: [KishorKumarParoi/Advanced_AI_Chatbot_Project](https://github.com/KishorKumarParoi/Advanced_AI_Chatbot_Project) • [README.md](https://github.com/KishorKumarParoi/Advanced_AI_Chatbot_Project/blob/main/README.md) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/Advanced_AI_Chatbot_Project/blob/main/ARCHITECTURE.md) • [docs/images](https://github.com/KishorKumarParoi/Advanced_AI_Chatbot_Project/tree/main/docs/images)
 
 ---
 
@@ -209,7 +233,7 @@ Principal Systems Architect and Founder with extensive background in **Distribut
   curl -fsSL https://raw.githubusercontent.com/KishorKumarParoi/Data-Agent/main/bootstrap.sh | bash
   ```
 
-- 🔗 **Repository**: [KishorKumarParoi/Data-Agent](https://github.com/KishorKumarParoi/Data-Agent) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/Data-Agent/blob/main/ARCHITECTURE.md)
+- 🔗 **Repository**: [KishorKumarParoi/Data-Agent](https://github.com/KishorKumarParoi/Data-Agent) • [README.md](https://github.com/KishorKumarParoi/Data-Agent/blob/main/README.md) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/Data-Agent/blob/main/ARCHITECTURE.md) • [docs/images](https://github.com/KishorKumarParoi/Data-Agent/tree/main/docs/images)
 
 ---
 
@@ -226,7 +250,7 @@ Principal Systems Architect and Founder with extensive background in **Distribut
   curl -fsSL https://raw.githubusercontent.com/KishorKumarParoi/Advanced_ETL_Project/main/bootstrap.sh | bash
   ```
 
-- 🔗 **Repository**: [KishorKumarParoi/Advanced_ETL_Project](https://github.com/KishorKumarParoi/Advanced_ETL_Project) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/Advanced_ETL_Project/blob/main/ARCHITECTURE.md)
+- 🔗 **Repository**: [KishorKumarParoi/Advanced_ETL_Project](https://github.com/KishorKumarParoi/Advanced_ETL_Project) • [README.md](https://github.com/KishorKumarParoi/Advanced_ETL_Project/blob/main/README.md) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/Advanced_ETL_Project/blob/main/ARCHITECTURE.md) • [docs/images](https://github.com/KishorKumarParoi/Advanced_ETL_Project/tree/main/docs/images)
 
 ---
 
@@ -243,7 +267,7 @@ Principal Systems Architect and Founder with extensive background in **Distribut
   curl -fsSL https://raw.githubusercontent.com/KishorKumarParoi/Aws-Sagemaker/main/bootstrap.sh | bash
   ```
 
-- 🔗 **Repository**: [KishorKumarParoi/Aws-Sagemaker](https://github.com/KishorKumarParoi/Aws-Sagemaker) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/Aws-Sagemaker/blob/main/ARCHITECTURE.md)
+- 🔗 **Repository**: [KishorKumarParoi/Aws-Sagemaker](https://github.com/KishorKumarParoi/Aws-Sagemaker) • [README.md](https://github.com/KishorKumarParoi/Aws-Sagemaker/blob/main/README.md) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/Aws-Sagemaker/blob/main/ARCHITECTURE.md) • [docs/images](https://github.com/KishorKumarParoi/Aws-Sagemaker/tree/main/docs/images)
 
 ---
 
@@ -260,7 +284,7 @@ Principal Systems Architect and Founder with extensive background in **Distribut
   curl -fsSL https://raw.githubusercontent.com/KishorKumarParoi/realtime-mlops/main/bootstrap.sh | bash
   ```
 
-- 🔗 **Repository**: [KishorKumarParoi/realtime-mlops](https://github.com/KishorKumarParoi/realtime-mlops) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/realtime-mlops/blob/main/ARCHITECTURE.md) • [Terraform-EKS](https://github.com/KishorKumarParoi/Terraform-EKS)
+- 🔗 **Repository**: [KishorKumarParoi/realtime-mlops](https://github.com/KishorKumarParoi/realtime-mlops) • [README.md](https://github.com/KishorKumarParoi/realtime-mlops/blob/main/README.md) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/realtime-mlops/blob/main/ARCHITECTURE.md) • [docs/images](https://github.com/KishorKumarParoi/realtime-mlops/tree/main/docs/images) • [Terraform-EKS](https://github.com/KishorKumarParoi/Terraform-EKS)
 
 ---
 
@@ -277,7 +301,7 @@ Principal Systems Architect and Founder with extensive background in **Distribut
   cargo test --all && cargo build --release
   ```
 
-- 🔗 **Repository**: [KishorKumarParoi/codecrafters-git-rust](https://github.com/KishorKumarParoi/codecrafters-git-rust) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/codecrafters-git-rust/blob/main/ARCHITECTURE.md)
+- 🔗 **Repository**: [KishorKumarParoi/codecrafters-git-rust](https://github.com/KishorKumarParoi/codecrafters-git-rust) • [README.md](https://github.com/KishorKumarParoi/codecrafters-git-rust/blob/main/README.md) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/codecrafters-git-rust/blob/main/ARCHITECTURE.md) • [docs/images](https://github.com/KishorKumarParoi/codecrafters-git-rust/tree/main/docs/images)
 
 ---
 
@@ -291,7 +315,7 @@ Principal Systems Architect and Founder with extensive background in **Distribut
   ```bash
   curl -fsSL https://raw.githubusercontent.com/KishorKumarParoi/User-Survival-Prediction/main/bootstrap.sh | bash
   ```
-- 🔗 **Repository**: [KishorKumarParoi/User-Survival-Prediction](https://github.com/KishorKumarParoi/User-Survival-Prediction) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/User-Survival-Prediction/blob/main/ARCHITECTURE.md)
+- 🔗 **Repository**: [KishorKumarParoi/User-Survival-Prediction](https://github.com/KishorKumarParoi/User-Survival-Prediction) • [README.md](https://github.com/KishorKumarParoi/User-Survival-Prediction/blob/main/README.md) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/User-Survival-Prediction/blob/main/ARCHITECTURE.md) • [docs/images](https://github.com/KishorKumarParoi/User-Survival-Prediction/tree/main/docs/images)
 
 ---
 
@@ -301,7 +325,7 @@ Principal Systems Architect and Founder with extensive background in **Distribut
 - **Founder Architecture**: Distributed screen recording and real-time video intelligence platform serving **10,000+ user sessions**.
 - **Streaming Engine**: Manifest V3 Chrome Extension capturing synchronized tab/microphone audio mixing; Express backend with AWS S3 parallel multipart uploads and CloudFront CDN delivery.
 - **Performance & Monetization**: 58% faster First Contentful Paint (FCP) via React Server Components; end-to-end Stripe billing engine generating **$24K MRR in enterprise pilot adoption**.
-- 🚀 **Live Platform**: [koom-ai.vercel.app](https://koom-ai.vercel.app/) • 🔗 **Repository**: [KishorKumarParoi/koom-ai](https://github.com/KishorKumarParoi/koom-ai)
+- 🚀 **Live Platform**: [koom-ai.vercel.app](https://koom-ai.vercel.app/) • 🔗 **Repository**: [KishorKumarParoi/koom-ai](https://github.com/KishorKumarParoi/koom-ai) • [README.md](https://github.com/KishorKumarParoi/koom-ai/blob/main/README.md) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/koom-ai/blob/main/ARCHITECTURE.md) • [docs/images](https://github.com/KishorKumarParoi/koom-ai/tree/main/docs/images)
 
 ---
 
@@ -310,7 +334,7 @@ Principal Systems Architect and Founder with extensive background in **Distribut
 
 - **Architecture**: High-performance 3D portfolio ecosystem with React 19.2, Rolldown Vite, and Tailwind CSS v4; GSAP 3.13 + ScrollTrigger 3D camera choreography and interactive Bento showcase grids.
 - **Live Telemetry API**: Distributed visitor telemetry engine powered by Supabase PostgreSQL with anti-tamper session rate-limiting, serving real-time analytics to global dashboards in <100ms.
-- 🚀 **Live Platform**: [re-invent-rust.vercel.app](https://re-invent-rust.vercel.app/) • 📊 [Live Visitor Telemetry API](https://re-invent-rust.vercel.app/api/visitors) • 🔗 **Repository**: [KishorKumarParoi/re-invent](https://github.com/KishorKumarParoi/re-invent)
+- 🚀 **Live Platform**: [re-invent-rust.vercel.app](https://re-invent-rust.vercel.app/) • 📊 [Live Visitor Telemetry API](https://re-invent-rust.vercel.app/api/visitors) • 🔗 **Repository**: [KishorKumarParoi/re-invent](https://github.com/KishorKumarParoi/re-invent) • [README.md](https://github.com/KishorKumarParoi/re-invent/blob/main/README.md) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/re-invent/blob/main/ARCHITECTURE.md) • [docs/images](https://github.com/KishorKumarParoi/re-invent/tree/main/docs/images)
 
 ---
 
@@ -323,7 +347,7 @@ Principal Systems Architect and Founder with extensive background in **Distribut
   - **Fire Spark Terminal**: Particle emitter spawning glowing embers on keystrokes with CLI tech-stack querying.
   - **Sacred OM (ॐ) Alignment**: 12 project folders arranged in the sacred Hindu Sanskriti OM contour with zero center obstruction.
   - **Dark Glassmorphism Contact Me**: Ambient glowing orbs, profile ring with online indicator, and one-click WhatsApp/Email triggers.
-- 🚀 **Live Desktop OS**: [kishor-paroi.vercel.app](https://kishor-paroi.vercel.app/) • 🔗 **Repository**: [KishorKumarParoi/macos-portofolio](https://github.com/KishorKumarParoi/macos-portofolio)
+- 🚀 **Live Desktop OS**: [kishor-paroi.vercel.app](https://kishor-paroi.vercel.app/) • 🔗 **Repository**: [KishorKumarParoi/macos-portofolio](https://github.com/KishorKumarParoi/macos-portofolio) • [README.md](https://github.com/KishorKumarParoi/macos-portofolio/blob/main/README.md) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/macos-portofolio/blob/main/ARCHITECTURE.md) • [docs/images](https://github.com/KishorKumarParoi/macos-portofolio/tree/main/docs/images)
 
 ---
 

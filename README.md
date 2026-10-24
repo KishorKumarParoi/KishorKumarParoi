@@ -31,7 +31,7 @@
 [![Single Column Resume](https://img.shields.io/badge/ATS%20Resume-Single%20Column%20PDF-8E2835?style=for-the-badge&logo=googledocs&logoColor=white)](./resume_single_column.pdf)
 [![Word Document](https://img.shields.io/badge/Resume-Word%20DOCX-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)](./resume.docx)
 [![Live Telemetry](https://img.shields.io/badge/Telemetry-Live%20Visitors%20API-00c853?style=for-the-badge&logo=prometheus&logoColor=white)](https://re-invent-rust.vercel.app/api/visitors)
-[![macOS Portfolio](https://img.shields.io/badge/macOS%20Portfolio-Live%20OS%20Web-0071e3?style=for-the-badge&logo=apple&logoColor=white)](https://kishor-paroi.vercel.app/)
+[![macOS Portfolio](https://img.shields.io/badge/macOS%20Portfolio-Live%20OS%20Web-0071e3?style=for-the-badge&logo=apple&logoColor=white)](https://macos-portofolio.vercel.app/)
 [![re:invent 3D](https://img.shields.io/badge/re:invent-3D%20Experience-ff9900?style=for-the-badge&logo=three.js&logoColor=white)](https://re-invent-rust.vercel.app/)
 [![Koom-AI](https://img.shields.io/badge/Koom--AI-Video%20Platform-7928ca?style=for-the-badge&logo=vercel&logoColor=white)](https://koom-ai.vercel.app/)
 
@@ -352,7 +352,7 @@ Principal Systems Architect and Founder with extensive background in **Distribut
   - **Fire Spark Terminal**: Particle emitter spawning glowing embers on keystrokes with CLI tech-stack querying.
   - **Sacred OM (ॐ) Alignment**: 12 project folders arranged in the sacred Hindu Sanskriti OM contour with zero center obstruction.
   - **Dark Glassmorphism Contact Me**: Ambient glowing orbs, profile ring with online indicator, and one-click WhatsApp/Email triggers.
-- 🚀 **Live Desktop OS**: [kishor-paroi.vercel.app](https://kishor-paroi.vercel.app/) • 🔗 **Repository**: [KishorKumarParoi/macos-portofolio](https://github.com/KishorKumarParoi/macos-portofolio) • [README.md](https://github.com/KishorKumarParoi/macos-portofolio/blob/main/README.md) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/macos-portofolio/blob/main/ARCHITECTURE.md) • [docs/images](https://github.com/KishorKumarParoi/macos-portofolio/tree/main/docs/images)
+- 🚀 **Live Desktop OS**: [macos-portofolio.vercel.app](https://macos-portofolio.vercel.app/) • 🔗 **Repository**: [KishorKumarParoi/macos-portofolio](https://github.com/KishorKumarParoi/macos-portofolio) • [README.md](https://github.com/KishorKumarParoi/macos-portofolio/blob/main/README.md) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/macos-portofolio/blob/main/ARCHITECTURE.md) • [docs/images](https://github.com/KishorKumarParoi/macos-portofolio/tree/main/docs/images)
 
 ---
 
@@ -551,7 +551,7 @@ Principal Systems Architect and Founder with extensive background in **Distribut
 
 Whether you are looking for a **Principal AI/ML Systems Architect**, an enterprise **Lakehouse & MLOps Leader**, or want to collaborate on high-throughput distributed systems:
 
-**[Email Me](mailto:Kishor.ruet.cse@gmail.com)** • **[WhatsApp (+880 1724-714-156)](https://wa.me/8801724714156?text=Hi%20Kishor,%20I%20saw%20your%20GitHub%20profile.)** • **[LinkedIn](https://linkedin.com/in/kishor-kumar-paroi)** • **[macOS Portfolio](https://kishor-paroi.vercel.app/)** • **[3D re:invent Platform](https://re-invent-rust.vercel.app/)**
+**[Email Me](mailto:Kishor.ruet.cse@gmail.com)** • **[WhatsApp (+880 1724-714-156)](https://wa.me/8801724714156?text=Hi%20Kishor,%20I%20saw%20your%20GitHub%20profile.)** • **[LinkedIn](https://linkedin.com/in/kishor-kumar-paroi)** • **[macOS Portfolio](https://macos-portofolio.vercel.app/)** • **[3D re:invent Platform](https://re-invent-rust.vercel.app/)**
 
 *Crafted with precision, algorithmic rigor, and beast-level engineering excellence.*
 

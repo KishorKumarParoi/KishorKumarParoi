@@ -1,8 +1,13 @@
 <div align="center">
 
 # 🌟 Kishor Kumar Paroi (KKP)
+
 ### **Principal AI Systems Architect • Enterprise Platform & Distributed Systems Leader • Founder of Koom-AI**
-**Ex-phi0.ai (Forward Deployed AI Engineer) • Ex-Samsung AI Core • Ex-Senior Full-Stack & AI Systems Engineer @ kepi.ai • RUET CSE (Merit Rank 483rd)**
+
+**Ex-phi0.ai (Forward Deployed AI Engineer) • Ex-Samsung AI Core/ Care Health Intern • Ex-Senior Full-Stack & AI Systems Engineer @ kepi.ai •**
+👀 I’m interested in AI Platform engineering.
+🌱 I’m currently working on AI Infrastructure, MLOps, LLMOPs, Evaluation, Observability.
+💞️ I’m looking to collaborate on AI agents, MCP, Cloud, Kubernetes, Terraform.
 
 [![Profile Views](https://komarev.com/ghpvc/?username=KishorKumarParoi&label=Profile%20Views&color=641c26&style=for-the-badge)](https://github.com/KishorKumarParoi)
 [![Live Telemetry](https://img.shields.io/badge/Telemetry-Live%20Visitors%20API-00c853?style=for-the-badge&logo=prometheus&logoColor=white)](https://re-invent-rust.vercel.app/api/visitors)
@@ -27,11 +32,11 @@ curl -fsSL https://raw.githubusercontent.com/KishorKumarParoi/zomato-analysis/ma
 </div>
 
 > ### ⚡ Executive Bio & Core Focus
+>
 > - 👀 **I’m interested in**: AI Platform Engineering, High-Throughput Distributed Systems, Polyglot Microservice Meshes (Rust 1.85 SIMD, Go 1.24, Python), and Multi-Cloud Medallion Lakehouses (Snowflake, Databricks, PySpark, Delta Lake).
 > - 🌱 **I’m currently working on**: AI Infrastructure, MLOps, LLMOps, Continuous Fine-Tuning Flywheels (vLLM Multi-LoRA, RSLoRA), Model Evaluation (RAGAS, G-Eval, PyRIT Red-Teaming), and Full-Stack Distributed Observability (OpenTelemetry, Prometheus, Grafana).
 > - 💞️ **I’m looking to collaborate on**: Autonomous AI Agents (LangGraph cyclic state machines), Model Context Protocol (FastMCP), Zero-Trust AI Security (BotShield WAF, NVIDIA NeMo Guardrails), Cloud-Native Infrastructure, Kubernetes (GKE, EKS, K3s), and Terraform IaC.
 > - 💬 **Ask me about**: Sub-millisecond SIMD scoring, scaling Delta Lakehouse pipelines to 35M+ records, building $0.00 teardown cloud automation, or solving 1,000+ DSA problems.
-
 
 ---
 
@@ -79,188 +84,224 @@ Principal Systems Architect and Founder with extensive background in **Distribut
 ---
 
 ### 1. 🍔 Zomato AI Lakehouse & Multimodal Dispute Platform
+>
 > **Snowflake • PySpark Delta Lake • dbt SCD-2 • Feast Feature Store • Computer Vision Anti-Fraud**
 
-* **Architecture**: End-to-end multi-cloud Lakehouse ingesting **35M+ orders (2.3 GB)** through Debezium CDC WAL and Apache Airflow into Snowflake and PySpark Delta Lake with dbt Core SCD-2. Real-time feature serving via Feast over Redis (<5ms latency).
-* **Multimodal CV Engine**: Perceptual dHash anti-fraud and receipt OCR with G-Eval Chain-of-Thought arbitration, neutralizing fraudulent refund claims by **68%** ($1.2M saved).
-* **Reliability & DR**: Distributed CQRS and Transactional Outbox pattern over Kafka; automated Presidio PII scrubbing and NeMo Guardrails; active-passive AWS failover (RPO < 60s, RTO < 4.5m).
-* **Quick Deploy**:
+- **Architecture**: End-to-end multi-cloud Lakehouse ingesting **35M+ orders (2.3 GB)** through Debezium CDC WAL and Apache Airflow into Snowflake and PySpark Delta Lake with dbt Core SCD-2. Real-time feature serving via Feast over Redis (<5ms latency).
+- **Multimodal CV Engine**: Perceptual dHash anti-fraud and receipt OCR with G-Eval Chain-of-Thought arbitration, neutralizing fraudulent refund claims by **68%** ($1.2M saved).
+- **Reliability & DR**: Distributed CQRS and Transactional Outbox pattern over Kafka; automated Presidio PII scrubbing and NeMo Guardrails; active-passive AWS failover (RPO < 60s, RTO < 4.5m).
+- **Quick Deploy**:
+
   ```bash
   curl -fsSL https://raw.githubusercontent.com/KishorKumarParoi/zomato-analysis/main/bootstrap.sh | bash
   ```
-* 🔗 **Repository**: [KishorKumarParoi/zomato-analysis](https://github.com/KishorKumarParoi/zomato-analysis) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/zomato-analysis/blob/main/ARCHITECTURE.md)
+
+- 🔗 **Repository**: [KishorKumarParoi/zomato-analysis](https://github.com/KishorKumarParoi/zomato-analysis) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/zomato-analysis/blob/main/ARCHITECTURE.md)
 
 ---
 
 ### 2. 🎌 Hybrid Anime Intelligence & Continuous LLMOps Platform
+>
 > **Polyglot Mesh (Rust SIMD / Go 1.24 / FastAPI) • Dynamic Multi-LoRA vLLM • RSLoRA Flywheel**
 
-* **Architecture**: High-throughput polyglot microservice mesh: Go 1.24 edge authentication gateway, Rust 1.85 SIMD vector scoring (<0.5ms latency, 50x speedup), and FastAPI core communicating over Apache Kafka.
-* **Hybrid Retrieval**: Dual-Tower NCF + ChromaDB HNSW dense vectors + BM25 sparse search synthesized via Reciprocal Rank Fusion (**NDCG@10 = 0.94**, +28% user session retention).
-* **LLMOps Serving**: vLLM Multi-LoRA dynamic multiplexing with continuous RSLoRA fine-tuning flywheel on a single GPU (**68% GPU cost reduction**, 3.4x higher token throughput).
-* **Quick Deploy**:
+- **Architecture**: High-throughput polyglot microservice mesh: Go 1.24 edge authentication gateway, Rust 1.85 SIMD vector scoring (<0.5ms latency, 50x speedup), and FastAPI core communicating over Apache Kafka.
+- **Hybrid Retrieval**: Dual-Tower NCF + ChromaDB HNSW dense vectors + BM25 sparse search synthesized via Reciprocal Rank Fusion (**NDCG@10 = 0.94**, +28% user session retention).
+- **LLMOps Serving**: vLLM Multi-LoRA dynamic multiplexing with continuous RSLoRA fine-tuning flywheel on a single GPU (**68% GPU cost reduction**, 3.4x higher token throughput).
+- **Quick Deploy**:
+
   ```bash
   curl -fsSL https://raw.githubusercontent.com/KishorKumarParoi/Hybrid-Anime-Recommender/main/bootstrap.sh | bash
   ```
-* 🔗 **Repository**: [KishorKumarParoi/Hybrid-Anime-Recommender](https://github.com/KishorKumarParoi/Hybrid-Anime-Recommender) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/Hybrid-Anime-Recommender/blob/main/ARCHITECTURE.md)
+
+- 🔗 **Repository**: [KishorKumarParoi/Hybrid-Anime-Recommender](https://github.com/KishorKumarParoi/Hybrid-Anime-Recommender) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/Hybrid-Anime-Recommender/blob/main/ARCHITECTURE.md)
 
 ---
 
 ### 3. 🛡️ Enterprise AI Security & Production Agentic RAG Platform
+>
 > **Zero-Trust AI Gateway • NVIDIA NeMo Guardrails • LangGraph • FastMCP • BotShield WAF**
 
-* **Architecture**: Zero-trust AI defense combining BotShield WAF (honeypot trapping, scanner fingerprinting) with NVIDIA NeMo Guardrails, blocking **95%+ prompt injections and jailbreaks** (benchmarked with Microsoft PyRIT 0.14.0).
-* **Agentic Orchestration**: LangGraph stateful cyclic state machine with MemorySaver checkpoints and Portkey Gateway; saves **$8.4K/month (42%)** via <50ms semantic similarity caching.
-* **Governance**: Model Context Protocol (FastMCP) with Human-in-the-Loop (HITL) approval gates and two-stage retrieval (Jina v3 1024-dim dense + FlashRank ONNX cross-encoder + Cohere Rerank v3.5).
-* **Quick Deploy**:
+- **Architecture**: Zero-trust AI defense combining BotShield WAF (honeypot trapping, scanner fingerprinting) with NVIDIA NeMo Guardrails, blocking **95%+ prompt injections and jailbreaks** (benchmarked with Microsoft PyRIT 0.14.0).
+- **Agentic Orchestration**: LangGraph stateful cyclic state machine with MemorySaver checkpoints and Portkey Gateway; saves **$8.4K/month (42%)** via <50ms semantic similarity caching.
+- **Governance**: Model Context Protocol (FastMCP) with Human-in-the-Loop (HITL) approval gates and two-stage retrieval (Jina v3 1024-dim dense + FlashRank ONNX cross-encoder + Cohere Rerank v3.5).
+- **Quick Deploy**:
+
   ```bash
   curl -fsSL https://raw.githubusercontent.com/KishorKumarParoi/AI_Security_Production_App/main/bootstrap.sh | bash
   ```
-* 🔗 **Repository**: [KishorKumarParoi/AI_Security_Production_App](https://github.com/KishorKumarParoi/AI_Security_Production_App) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/AI_Security_Production_App/blob/main/ARCHITECTURE.md)
+
+- 🔗 **Repository**: [KishorKumarParoi/AI_Security_Production_App](https://github.com/KishorKumarParoi/AI_Security_Production_App) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/AI_Security_Production_App/blob/main/ARCHITECTURE.md)
 
 ---
 
 ### 4. 🏭 Smart Manufacturing Industrial AI & Multi-Cloud MLOps
+>
 > **Rust Edge SIMD • PyTorch Autoencoders • GKE / K3s CNCF • ArgoCD GitOps • TensorRT INT8**
 
-* **Architecture**: Edge-to-cloud industrial anomaly detection (PyTorch Autoencoders) and visual defect classification (CNN, <20ms), reducing defect escape rates by **31% ($420K annual scrap savings)**.
-* **Polyglot Edge**: Rust 1.85 SIMD edge vibration ingestion (:8082), Go cloud-native gateway (:8085), Next.js industrial cockpit (:3000), and PyTorch AI core (:8000).
-* **Kubernetes Resilience**: Multi-zone GKE with seamless fallback to host-native K3s CNCF engine for standalone execution; automated 12-stage CI/CD with Jenkins, SonarQube, Nexus, and ArgoCD.
-* **Quick Deploy**:
+- **Architecture**: Edge-to-cloud industrial anomaly detection (PyTorch Autoencoders) and visual defect classification (CNN, <20ms), reducing defect escape rates by **31% ($420K annual scrap savings)**.
+- **Polyglot Edge**: Rust 1.85 SIMD edge vibration ingestion (:8082), Go cloud-native gateway (:8085), Next.js industrial cockpit (:3000), and PyTorch AI core (:8000).
+- **Kubernetes Resilience**: Multi-zone GKE with seamless fallback to host-native K3s CNCF engine for standalone execution; automated 12-stage CI/CD with Jenkins, SonarQube, Nexus, and ArgoCD.
+- **Quick Deploy**:
+
   ```bash
   curl -fsSL https://raw.githubusercontent.com/KishorKumarParoi/smart-manufacturing/main/bootstrap.sh | bash
   ```
-* 🔗 **Repository**: [KishorKumarParoi/smart-manufacturing](https://github.com/KishorKumarParoi/smart-manufacturing) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/smart-manufacturing/blob/main/ARCHITECTURE.md)
+
+- 🔗 **Repository**: [KishorKumarParoi/smart-manufacturing](https://github.com/KishorKumarParoi/smart-manufacturing) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/smart-manufacturing/blob/main/ARCHITECTURE.md)
 
 ---
 
 ### 5. 🌐 Nexus-AI: Enterprise Multi-Cloud Lakehouse & Autonomous Agent Mesh
+>
 > **Medallion Lakehouse (Bronze-Silver-Gold) • 5-Agent LangGraph Mesh • DuckDB • Terraform**
 
-* **Architecture**: Security-first 5-agent mesh (Data NL2SQL, Business Analyst, MLOps Supervisor, OWASP Firewall, Voice Alerts) over LangGraph, accelerating analytics turnaround by **82%**.
-* **Medallion Lakehouse**: 3-tier Lakehouse (Bronze Parquet → Silver 32-point DQ validation → Gold Star Schema marts) with DuckDB, cutting dashboard latencies from 4.5s to **<120ms**.
-* **Multi-Cloud IaC**: Automated Terraform provisioning across AWS (EKS, S3, Glue), GCP (GKE, BigQuery), and Azure (AKS, Synapse); sustained 12K req/s with Go 1.22 API Gateway.
-* **Quick Deploy**:
+- **Architecture**: Security-first 5-agent mesh (Data NL2SQL, Business Analyst, MLOps Supervisor, OWASP Firewall, Voice Alerts) over LangGraph, accelerating analytics turnaround by **82%**.
+- **Medallion Lakehouse**: 3-tier Lakehouse (Bronze Parquet → Silver 32-point DQ validation → Gold Star Schema marts) with DuckDB, cutting dashboard latencies from 4.5s to **<120ms**.
+- **Multi-Cloud IaC**: Automated Terraform provisioning across AWS (EKS, S3, Glue), GCP (GKE, BigQuery), and Azure (AKS, Synapse); sustained 12K req/s with Go 1.22 API Gateway.
+- **Quick Deploy**:
+
   ```bash
   curl -fsSL https://raw.githubusercontent.com/KishorKumarParoi/Nexus_AI/main/bootstrap.sh | bash
   ```
-* 🔗 **Repository**: [KishorKumarParoi/Nexus_AI](https://github.com/KishorKumarParoi/Nexus_AI) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/Nexus_AI/blob/main/ARCHITECTURE.md)
+
+- 🔗 **Repository**: [KishorKumarParoi/Nexus_AI](https://github.com/KishorKumarParoi/Nexus_AI) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/Nexus_AI/blob/main/ARCHITECTURE.md)
 
 ---
 
 ### 6. 🤖 Advanced AI Chatbot: Enterprise Autonomous Agent & HITL Platform
+>
 > **LangGraph Cyclic State Machine • FastMCP • HITL Financial Gating • BotShield WAF**
 
-* **Architecture**: Enterprise conversational agent using LangGraph cyclic state machines with PostgreSQL checkpointer for fault-tolerant multi-turn thread persistence, dynamic rollbacks, and sub-50ms session recovery.
-* **Safety & HITL**: FastMCP isolated tool execution with strict Human-in-the-Loop gating on financial transactions (>$50 refunds/cancellations); BotShield WAF intercepting 99.4% of adversarial probes.
-* **Semantic Caching**: Qdrant (BGE-Large) + BM25 hybrid search with Redis cosine similarity gating (<12ms response for 38% of intents, saving $3.2K/mo).
-* **Quick Deploy**:
+- **Architecture**: Enterprise conversational agent using LangGraph cyclic state machines with PostgreSQL checkpointer for fault-tolerant multi-turn thread persistence, dynamic rollbacks, and sub-50ms session recovery.
+- **Safety & HITL**: FastMCP isolated tool execution with strict Human-in-the-Loop gating on financial transactions (>$50 refunds/cancellations); BotShield WAF intercepting 99.4% of adversarial probes.
+- **Semantic Caching**: Qdrant (BGE-Large) + BM25 hybrid search with Redis cosine similarity gating (<12ms response for 38% of intents, saving $3.2K/mo).
+- **Quick Deploy**:
+
   ```bash
   curl -fsSL https://raw.githubusercontent.com/KishorKumarParoi/Advanced_AI_Chatbot_Project/main/bootstrap.sh | bash
   ```
-* 🔗 **Repository**: [KishorKumarParoi/Advanced_AI_Chatbot_Project](https://github.com/KishorKumarParoi/Advanced_AI_Chatbot_Project) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/Advanced_AI_Chatbot_Project/blob/main/ARCHITECTURE.md)
+
+- 🔗 **Repository**: [KishorKumarParoi/Advanced_AI_Chatbot_Project](https://github.com/KishorKumarParoi/Advanced_AI_Chatbot_Project) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/Advanced_AI_Chatbot_Project/blob/main/ARCHITECTURE.md)
 
 ---
 
 ### 7. 📊 Data Agent: Multi-Agent Business Intelligence & Self-Healing SQL
+>
 > **Hierarchical LangGraph Mesh • Self-Reflective SQL Security Judge • ReAct ETL Sandbox**
 
-* **Architecture**: LangGraph supervisor router classifying analytical queries into specialized SQL and ETL subgraphs with **96.2% routing accuracy**.
-* **Self-Healing SQL**: Independent LLM security judge sanitizes generated SQL and intercepts 100% of destructive DDL/DML injection attacks, programmatically healing **89% of initial query errors**.
-* **ReAct ETL**: Autonomous tool-calling agent executing pandas data transformations in a secure sandbox, compressing ad-hoc pipeline development cycles by **75%**.
-* **Quick Deploy**:
+- **Architecture**: LangGraph supervisor router classifying analytical queries into specialized SQL and ETL subgraphs with **96.2% routing accuracy**.
+- **Self-Healing SQL**: Independent LLM security judge sanitizes generated SQL and intercepts 100% of destructive DDL/DML injection attacks, programmatically healing **89% of initial query errors**.
+- **ReAct ETL**: Autonomous tool-calling agent executing pandas data transformations in a secure sandbox, compressing ad-hoc pipeline development cycles by **75%**.
+- **Quick Deploy**:
+
   ```bash
   curl -fsSL https://raw.githubusercontent.com/KishorKumarParoi/Data-Agent/main/bootstrap.sh | bash
   ```
-* 🔗 **Repository**: [KishorKumarParoi/Data-Agent](https://github.com/KishorKumarParoi/Data-Agent) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/Data-Agent/blob/main/ARCHITECTURE.md)
+
+- 🔗 **Repository**: [KishorKumarParoi/Data-Agent](https://github.com/KishorKumarParoi/Data-Agent) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/Data-Agent/blob/main/ARCHITECTURE.md)
 
 ---
 
 ### 8. ☁️ Advanced Network Security Medallion Lakehouse & Distributed ML
+>
 > **Azure Data Factory • ADLS Gen2 • Databricks Spark • Synapse CETAS • Sub-4ms ML**
 
-* **Architecture**: Automated batch telemetry extraction via Azure Data Factory (ADF v2) landing logs into ADLS Gen2 Bronze layer, processed with Azure Databricks (Apache Spark) and MongoDB Atlas metadata.
-* **Analytical Serving Tier**: Materialized serving tier in Azure Synapse Serverless SQL using Managed Identity scoped credentials and CETAS (*Create External Table As Select*).
-* **Sub-4ms Inference**: Containerized FastAPI ONNX inference serving with dynamic partition pruning and Z-Order clustering across **1.4B security logs** (p99 latency reduced by 11.8x).
-* **Quick Deploy**:
+- **Architecture**: Automated batch telemetry extraction via Azure Data Factory (ADF v2) landing logs into ADLS Gen2 Bronze layer, processed with Azure Databricks (Apache Spark) and MongoDB Atlas metadata.
+- **Analytical Serving Tier**: Materialized serving tier in Azure Synapse Serverless SQL using Managed Identity scoped credentials and CETAS (*Create External Table As Select*).
+- **Sub-4ms Inference**: Containerized FastAPI ONNX inference serving with dynamic partition pruning and Z-Order clustering across **1.4B security logs** (p99 latency reduced by 11.8x).
+- **Quick Deploy**:
+
   ```bash
   curl -fsSL https://raw.githubusercontent.com/KishorKumarParoi/Advanced_ETL_Project/main/bootstrap.sh | bash
   ```
-* 🔗 **Repository**: [KishorKumarParoi/Advanced_ETL_Project](https://github.com/KishorKumarParoi/Advanced_ETL_Project) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/Advanced_ETL_Project/blob/main/ARCHITECTURE.md)
+
+- 🔗 **Repository**: [KishorKumarParoi/Advanced_ETL_Project](https://github.com/KishorKumarParoi/Advanced_ETL_Project) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/Advanced_ETL_Project/blob/main/ARCHITECTURE.md)
 
 ---
 
 ### 9. 📈 AWS SageMaker End-to-End MLOps Pipeline & Governance Platform
+>
 > **SageMaker Pipelines (DAG) • Managed Spot Training • Model Registry • DataCaptureConfig**
 
-* **Architecture**: Automated SageMaker DAG Pipeline (ProcessingStep → TrainingStep → ConditionStep → ModelStep) with AWS Managed Spot Training, slashing training costs by **70%**.
-* **Quality Gating & Registry**: Automated holdout accuracy gating (≥85%) for promotion into SageMaker Model Registry; autoscaling real-time and serverless endpoints sustaining **2,500 req/s**.
-* **Drift & Governance**: DataCaptureConfig payload streaming to S3 for baseline statistical drift detection; AWS KMS CMK envelope encryption complying with NIST AI RMF standards.
-* **Quick Deploy**:
+- **Architecture**: Automated SageMaker DAG Pipeline (ProcessingStep → TrainingStep → ConditionStep → ModelStep) with AWS Managed Spot Training, slashing training costs by **70%**.
+- **Quality Gating & Registry**: Automated holdout accuracy gating (≥85%) for promotion into SageMaker Model Registry; autoscaling real-time and serverless endpoints sustaining **2,500 req/s**.
+- **Drift & Governance**: DataCaptureConfig payload streaming to S3 for baseline statistical drift detection; AWS KMS CMK envelope encryption complying with NIST AI RMF standards.
+- **Quick Deploy**:
+
   ```bash
   curl -fsSL https://raw.githubusercontent.com/KishorKumarParoi/Aws-Sagemaker/main/bootstrap.sh | bash
   ```
-* 🔗 **Repository**: [KishorKumarParoi/Aws-Sagemaker](https://github.com/KishorKumarParoi/Aws-Sagemaker) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/Aws-Sagemaker/blob/main/ARCHITECTURE.md)
+
+- 🔗 **Repository**: [KishorKumarParoi/Aws-Sagemaker](https://github.com/KishorKumarParoi/Aws-Sagemaker) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/Aws-Sagemaker/blob/main/ARCHITECTURE.md)
 
 ---
 
 ### 10. ⚡ Cloud-Native Real-Time MLOps: KServe, AWS ECS Fargate & Kubernetes
+>
 > **KServe v1beta1 • AWS ECS Fargate • Kubernetes • Modular Terraform IaC • Trivy CVE**
 
-* **Architecture**: Serverless model inference using KServe v1beta1 InferenceService on Kubernetes with dynamic scale-to-zero autoscaling, curtailing idle compute spend by **65%**.
-* **Cloud Orchestration**: Microservices orchestration on AWS ECS on Fargate with Application Load Balancers and modular Terraform IaC (provisioning time reduced by **80%**).
-* **DevSecOps**: Automated Trivy CVE container scanning, AWS KMS envelope encryption, and 90/10 canary traffic routing with automated Prometheus rollback on latency regressions (>25ms).
-* **Quick Deploy**:
+- **Architecture**: Serverless model inference using KServe v1beta1 InferenceService on Kubernetes with dynamic scale-to-zero autoscaling, curtailing idle compute spend by **65%**.
+- **Cloud Orchestration**: Microservices orchestration on AWS ECS on Fargate with Application Load Balancers and modular Terraform IaC (provisioning time reduced by **80%**).
+- **DevSecOps**: Automated Trivy CVE container scanning, AWS KMS envelope encryption, and 90/10 canary traffic routing with automated Prometheus rollback on latency regressions (>25ms).
+- **Quick Deploy**:
+
   ```bash
   curl -fsSL https://raw.githubusercontent.com/KishorKumarParoi/realtime-mlops/main/bootstrap.sh | bash
   ```
-* 🔗 **Repository**: [KishorKumarParoi/realtime-mlops](https://github.com/KishorKumarParoi/realtime-mlops) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/realtime-mlops/blob/main/ARCHITECTURE.md) • [Terraform-EKS](https://github.com/KishorKumarParoi/Terraform-EKS)
+
+- 🔗 **Repository**: [KishorKumarParoi/realtime-mlops](https://github.com/KishorKumarParoi/realtime-mlops) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/realtime-mlops/blob/main/ARCHITECTURE.md) • [Terraform-EKS](https://github.com/KishorKumarParoi/Terraform-EKS)
 
 ---
 
 ### 11. 🦀 Core Systems Engineering: Rust Git Engine & POSIX Terminal Shell
+>
 > **Rust 1.85 Bare-Metal • SHA-1 DAG Graph • SIMD Zlib Decompression • Concurrency**
 
-* **Architecture**: Low-level Git internals built in Rust 1.85 (SHA-1 object graph, streaming zlib decompression with SIMD, delta packfiles), matching C Git performance with **100% compile-time memory safety**.
-* **POSIX Shell**: Async signal multiplexing, fork/exec pipelines, and I/O redirection with sub-microsecond latency and **73% lower peak heap allocation**.
-* **Zero-Copy I/O**: Multi-gigabyte packfile parsing via `memmap2` with memory-mapped I/O (<14MB RSS footprint); property-based fuzz testing via `cargo fuzz` over 10M iterations.
-* **Quick Verify**:
+- **Architecture**: Low-level Git internals built in Rust 1.85 (SHA-1 object graph, streaming zlib decompression with SIMD, delta packfiles), matching C Git performance with **100% compile-time memory safety**.
+- **POSIX Shell**: Async signal multiplexing, fork/exec pipelines, and I/O redirection with sub-microsecond latency and **73% lower peak heap allocation**.
+- **Zero-Copy I/O**: Multi-gigabyte packfile parsing via `memmap2` with memory-mapped I/O (<14MB RSS footprint); property-based fuzz testing via `cargo fuzz` over 10M iterations.
+- **Quick Verify**:
+
   ```bash
   cargo test --all && cargo build --release
   ```
-* 🔗 **Repository**: [KishorKumarParoi/codecrafters-git-rust](https://github.com/KishorKumarParoi/codecrafters-git-rust) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/codecrafters-git-rust/blob/main/ARCHITECTURE.md)
+
+- 🔗 **Repository**: [KishorKumarParoi/codecrafters-git-rust](https://github.com/KishorKumarParoi/codecrafters-git-rust) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/codecrafters-git-rust/blob/main/ARCHITECTURE.md)
 
 ---
 
 ### 12. 📹 Koom-AI: Enterprise Video Intelligence & Workspace Platform
+>
 > **Next.js 16 App Router • Manifest V3 Chrome Extension • WebRTC • Stripe Connect**
 
-* **Founder Architecture**: Distributed screen recording and real-time video intelligence platform serving **10,000+ user sessions**.
-* **Streaming Engine**: Manifest V3 Chrome Extension capturing synchronized tab/microphone audio mixing; Express backend with AWS S3 parallel multipart uploads and CloudFront CDN delivery.
-* **Performance & Monetization**: 58% faster First Contentful Paint (FCP) via React Server Components; end-to-end Stripe billing engine generating **$24K MRR in enterprise pilot adoption**.
-* 🚀 **Live Platform**: [koom-ai.vercel.app](https://koom-ai.vercel.app/) • 🔗 **Repository**: [KishorKumarParoi/koom-ai](https://github.com/KishorKumarParoi/koom-ai)
+- **Founder Architecture**: Distributed screen recording and real-time video intelligence platform serving **10,000+ user sessions**.
+- **Streaming Engine**: Manifest V3 Chrome Extension capturing synchronized tab/microphone audio mixing; Express backend with AWS S3 parallel multipart uploads and CloudFront CDN delivery.
+- **Performance & Monetization**: 58% faster First Contentful Paint (FCP) via React Server Components; end-to-end Stripe billing engine generating **$24K MRR in enterprise pilot adoption**.
+- 🚀 **Live Platform**: [koom-ai.vercel.app](https://koom-ai.vercel.app/) • 🔗 **Repository**: [KishorKumarParoi/koom-ai](https://github.com/KishorKumarParoi/koom-ai)
 
 ---
 
 ### 13. 🎨 re:invent: Interactive 3D Platform & Real-Time Visitor Telemetry
+>
 > **React 19.2 • Three.js • GSAP 3.13 • Rolldown Vite • Supabase PostgreSQL Telemetry**
 
-* **Architecture**: High-performance 3D portfolio ecosystem with React 19.2, Rolldown Vite, and Tailwind CSS v4; GSAP 3.13 + ScrollTrigger 3D camera choreography and interactive Bento showcase grids.
-* **Live Telemetry API**: Distributed visitor telemetry engine powered by Supabase PostgreSQL with anti-tamper session rate-limiting, serving real-time analytics to global dashboards in <100ms.
-* 🚀 **Live Platform**: [re-invent-rust.vercel.app](https://re-invent-rust.vercel.app/) • 📊 [Live Visitor Telemetry API](https://re-invent-rust.vercel.app/api/visitors) • 🔗 **Repository**: [KishorKumarParoi/re-invent](https://github.com/KishorKumarParoi/re-invent)
+- **Architecture**: High-performance 3D portfolio ecosystem with React 19.2, Rolldown Vite, and Tailwind CSS v4; GSAP 3.13 + ScrollTrigger 3D camera choreography and interactive Bento showcase grids.
+- **Live Telemetry API**: Distributed visitor telemetry engine powered by Supabase PostgreSQL with anti-tamper session rate-limiting, serving real-time analytics to global dashboards in <100ms.
+- 🚀 **Live Platform**: [re-invent-rust.vercel.app](https://re-invent-rust.vercel.app/) • 📊 [Live Visitor Telemetry API](https://re-invent-rust.vercel.app/api/visitors) • 🔗 **Repository**: [KishorKumarParoi/re-invent](https://github.com/KishorKumarParoi/re-invent)
 
 ---
 
 ### 14. 🍏 macOS Tahoe: Interactive Apple Silicon OS Portfolio in React & GSAP
+>
 > **React 19 • GSAP Draggable • Minimax AI Chess Engine • Fire Particle Terminal • ATS Resume**
 
-* **Architecture**: Interactive recreation of Apple Silicon macOS desktop featuring fluid multi-window management, persistent Z-index stacking, and native draggable Finder navigation.
-* **Interactive Highlights**:
+- **Architecture**: Interactive recreation of Apple Silicon macOS desktop featuring fluid multi-window management, persistent Z-index stacking, and native draggable Finder navigation.
+- **Interactive Highlights**:
   - **Live Minimax AI Chess**: Play against a minimax computer AI across 4 predefined tactical sets with a 2-minute blitz clock.
   - **Fire Spark Terminal**: Particle emitter spawning glowing embers on keystrokes with CLI tech-stack querying.
   - **Sacred OM (ॐ) Alignment**: 12 project folders arranged in the sacred Hindu Sanskriti OM contour with zero center obstruction.
   - **Dark Glassmorphism Contact Me**: Ambient glowing orbs, profile ring with online indicator, and one-click WhatsApp/Email triggers.
-* 🚀 **Live Desktop OS**: [kishor-paroi.vercel.app](https://kishor-paroi.vercel.app/) • 🔗 **Repository**: [KishorKumarParoi/macos-portofolio](https://github.com/KishorKumarParoi/macos-portofolio)
+- 🚀 **Live Desktop OS**: [kishor-paroi.vercel.app](https://kishor-paroi.vercel.app/) • 🔗 **Repository**: [KishorKumarParoi/macos-portofolio](https://github.com/KishorKumarParoi/macos-portofolio)
 
 ---
 
@@ -330,43 +371,53 @@ Principal Systems Architect and Founder with extensive background in **Distribut
 ## 💼 Professional Experience
 
 ### 🚀 Forward Deployed AI Engineer • phi0.ai *(Jul 2026 – Oct 2026 • Europe | Remote)*
-* Orchestrated forward deployment of **5 concurrent autonomous AI agents** executing multi-step tools via **LangGraph**, attaining **99.4% task completion** and accelerating client onboarding by **4x**.
-* Devised high-throughput **Hybrid RAG** with HNSW, BM25, and multi-stage re-ranking (**FlashRank + Cohere v3.5**) under **<35ms semantic cache**; curtailed hallucinations by **46%** and saved **$18K/mo**.
-* Codified continuous **MLOps & GenAI flywheel** with NVIDIA NeMo Guardrails and Canary Kubernetes deployments; spearheaded enterprise AI transformation, securing **$1.4M in client contracts**.
+
+- Orchestrated forward deployment of **5 concurrent autonomous AI agents** executing multi-step tools via **LangGraph**, attaining **99.4% task completion** and accelerating client onboarding by **4x**.
+
+- Devised high-throughput **Hybrid RAG** with HNSW, BM25, and multi-stage re-ranking (**FlashRank + Cohere v3.5**) under **<35ms semantic cache**; curtailed hallucinations by **46%** and saved **$18K/mo**.
+- Codified continuous **MLOps & GenAI flywheel** with NVIDIA NeMo Guardrails and Canary Kubernetes deployments; spearheaded enterprise AI transformation, securing **$1.4M in client contracts**.
 
 ### 🏢 Data Engineering & AI Systems • Samsung AI Core / Care Health *(Mar 2026 – Jun 2026)*
-* Formulated batch & streaming pipelines via **AWS S3, EMR, Athena, PySpark**; slashed operational compute overhead by **$4.2K/run (34% savings)** through asynchronous event-driven Lambda/SQS dispatch.
-* Accelerated 8B/70B model inference on H100 GPUs via **FlashAttention-2** and fused kernels; delivered **3.8x throughput** on >32K context windows, mitigating p99 latency by **54%**.
-* Deployed real-time health insurance claim fraud detection pipeline over **AWS Kinesis and OpenTelemetry**; eradicated false-positive claim investigations by **52%**, preserving **$380K annually**.
+
+- Formulated batch & streaming pipelines via **AWS S3, EMR, Athena, PySpark**; slashed operational compute overhead by **$4.2K/run (34% savings)** through asynchronous event-driven Lambda/SQS dispatch.
+
+- Accelerated 8B/70B model inference on H100 GPUs via **FlashAttention-2** and fused kernels; delivered **3.8x throughput** on >32K context windows, mitigating p99 latency by **54%**.
+- Deployed real-time health insurance claim fraud detection pipeline over **AWS Kinesis and OpenTelemetry**; eradicated false-positive claim investigations by **52%**, preserving **$380K annually**.
 
 ### 🔬 Full-Time Technical Deep Dive: Math, ML/DL, GenAI & MLOps *(Oct 2025 – Feb 2026)*
-* Rigorous hands-on mastery in **Linear Algebra** (SVD, PCA), **Calculus**, and core ML; handcrafted Transformers, Self-Attention, and CNNs from first principles in **PyTorch**.
-* Devised **Hybrid RAG**, **LangGraph multi-agent meshes**, **Big Data Lakehouses** (PySpark Delta Lake, Snowflake, Kafka streams, dbt Core), and MLOps flywheels (**MLflow, Feast, K8s**).
+
+- Rigorous hands-on mastery in **Linear Algebra** (SVD, PCA), **Calculus**, and core ML; handcrafted Transformers, Self-Attention, and CNNs from first principles in **PyTorch**.
+
+- Devised **Hybrid RAG**, **LangGraph multi-agent meshes**, **Big Data Lakehouses** (PySpark Delta Lake, Snowflake, Kafka streams, dbt Core), and MLOps flywheels (**MLflow, Feast, K8s**).
 
 ### ⚡ Senior Full Stack Engineer • kepi.ai *(Jan 2022 – Sep 2025 • 3 yrs 9 mos)*
-* Architected zero-downtime microservices migration to **Kubernetes on AWS**; scaled platform throughput by **300%** while curtailing p95 latency by **48%** at 99.99% availability.
-* Spearheaded enterprise AI initiatives: delivered autonomous multi-agent pipelines and scalable LLM microservices, driving a **22% increase in customer LTV**.
-* Fortified zero-trust mesh infrastructure with **Istio mTLS and fine-grained RBAC**; precluded unencrypted service-to-service transit and diminished cross-zone egress costs by **38%**.
+
+- Architected zero-downtime microservices migration to **Kubernetes on AWS**; scaled platform throughput by **300%** while curtailing p95 latency by **48%** at 99.99% availability.
+
+- Spearheaded enterprise AI initiatives: delivered autonomous multi-agent pipelines and scalable LLM microservices, driving a **22% increase in customer LTV**.
+- Fortified zero-trust mesh infrastructure with **Istio mTLS and fine-grained RBAC**; precluded unencrypted service-to-service transit and diminished cross-zone egress costs by **38%**.
 
 ### 🌟 Founder & Principal Architect • KoomAI *(Jan 2025 – Dec 2025)*
-* Architected distributed video capture platform and Manifest V3 Chrome Extension serving **10,000+ user sessions**.
-* Devised real-time WebRTC media pipeline (<120ms latency) and Electron desktop client with native NVENC encoding; sustained 60 FPS 1080p across **50K+ active video minutes (-45% CPU)**.
-* Built Next.js 16 web application with AWS S3 parallel multipart uploads and CloudFront edge caching (**58% faster First Contentful Paint**).
-* Integrated Stripe Connect subscription billing and idempotent webhooks, securing **$24K MRR in pilot enterprise adoption**.
+
+- Architected distributed video capture platform and Manifest V3 Chrome Extension serving **10,000+ user sessions**.
+
+- Devised real-time WebRTC media pipeline (<120ms latency) and Electron desktop client with native NVENC encoding; sustained 60 FPS 1080p across **50K+ active video minutes (-45% CPU)**.
+- Built Next.js 16 web application with AWS S3 parallel multipart uploads and CloudFront edge caching (**58% faster First Contentful Paint**).
+- Integrated Stripe Connect subscription billing and idempotent webhooks, securing **$24K MRR in pilot enterprise adoption**.
 
 ---
 
 ## 🏆 Competitive Programming, Academic Honors & Specializations
 
-* **Codeforces**: Ranked **232nd in Div-2** (**Blue Coder**)
-* **CodeChef**: **5★ Coder** (Rating 2000+)
-* **Inter-University Programming Contest (IUPC)**: Ranked **17th in Bangladesh**
-* **Meta Hacker Cup**: Round 3 Qualifier
-* **LeetCode**: **1,000+ DSA Problems Solved** with algorithmic optimality across Graphs, DP, Trees, and Geometry
-* **Technobeast AI Agents Hackathon**: **Champion (1st Place)**
-* **AI Security Hackathon**: **7th Place Nationally** (Real-time prompt injection firewall, 97.2% precision)
-* **Academic Merit**: Graduated B.Sc. in Computer Science & Engineering from **RUET (Rank 483rd in Bangladesh in Admission Merit)**; **Rank 85th in Dhaka Board (HSC)**, **Rank 90th in Dhaka Board (SSC)**.
-* **Certifications**:
+- **Codeforces**: Ranked **232nd in Div-2** (**Blue Coder**)
+- **CodeChef**: **5★ Coder** (Rating 2000+)
+- **Inter-University Programming Contest (IUPC)**: Ranked **17th in Bangladesh**
+- **Meta Hacker Cup**: Round 3 Qualifier
+- **LeetCode**: **1,000+ DSA Problems Solved** with algorithmic optimality across Graphs, DP, Trees, and Geometry
+- **Technobeast AI Agents Hackathon**: **Champion (1st Place)**
+- **AI Security Hackathon**: **7th Place Nationally** (Real-time prompt injection firewall, 97.2% precision)
+- **Academic Merit**: Graduated B.Sc. in Computer Science & Engineering from **RUET (Rank 483rd in Bangladesh in Admission Merit)**; **Rank 85th in Dhaka Board (HSC)**, **Rank 90th in Dhaka Board (SSC)**.
+- **Certifications**:
   - Deep Learning Specialization (DeepLearning.AI & Stanford – Andrew Ng)
   - Machine Learning Specialization (Stanford Online & DeepLearning.AI – Andrew Ng)
   - Enterprise Production MLOps & Systems Architecture (Krish Naik, Vivian Aranha, Mayank Agarwal)

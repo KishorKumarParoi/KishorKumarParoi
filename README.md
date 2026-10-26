@@ -1,5 +1,34 @@
 <div align="center">
 
+<!-- 🌊 Live Dynamic Animated Twinkling Wave Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Kishor%20Kumar%20Paroi&fontSize=38&fontAlignY=36&animation=twinkling&desc=Principal%20AI%20Systems%20Architect%20•%20Distributed%20Data%20Leader&descSize=16&descAlignY=62" width="100%" alt="Header" />
+
+<!-- ⚡ Live Dynamic Animated Typing Terminal (Camo-Safe URL) -->
+<a href="https://kishor.tech">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=0071E3&center=true&vCenter=true&width=680&height=45&lines=Principal+AI+Systems+Architect+%7C+Distributed+Data+Leader;Founder+at+Koom-AI+(koom-ai.vercel.app);B.Sc.+in+CSE+from+RUET+(Merit+Rank+483rd+in+Bangladesh);High-Throughput+Distributed+Microservices+%26+Medallion+Lakehouse;Meowww!+Welcome+to+my+production+portfolio!" alt="Live Typing SVG" />
+</a>
+
+<!-- 🌈 Animated Neon Gradient Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4" alt="Divider" />
+
+<!-- 🐾 🐱 Cute Meowing Cat Mascot & 🐍 Live Contribution Snake Animation (Seamless Borderless) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="125" alt="Cute Meowing Kitty" style="vertical-align: middle; border-radius: 12px; margin-right: 14px;" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="500" alt="Snake eating contributions" style="vertical-align: middle;" />
+</p>
+<p align="center">
+  <b>🐾 <i>"Meowww! Welcome to my engineering profile!"</i></b> &nbsp;•&nbsp; 
+  <a href="https://www.myinstants.com/media/sounds/meow.mp3" target="_blank">
+    <img src="https://img.shields.io/badge/🔊_Sound-Meowww!-ff69b4?style=flat-square&logo=apple-music&logoColor=white" alt="Play Meow" style="vertical-align: middle;" />
+  </a> &nbsp;•&nbsp; 
+  <b>🐍 <i>Live Snake eating contributions across the repository grid 24/7</i></b>
+</p>
+
+<!-- 🌈 Animated Neon Gradient Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4" alt="Divider" />
+
+<br>
+
 # 🌟 Kishor Kumar Paroi (KKP)
 
 ### **Principal AI Systems Architect • Enterprise Platform & Distributed Systems Leader**

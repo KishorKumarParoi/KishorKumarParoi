@@ -11,16 +11,35 @@
 <!-- 🌈 Animated Neon Gradient Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4" alt="Divider" />
 
-<!-- 🐾 🐱 Cute Meowing Cat Mascot & 🐍 Live Contribution Snake Animation (Seamless Borderless) -->
+<!-- 🐾 🐱 Cute Meowing Cat Mascot & 🐍 Live Contribution Snake Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="125" alt="Cute Meowing Kitty" style="vertical-align: middle; border-radius: 12px; margin-right: 14px;" />
+  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="130" alt="Cute Meowing Kitty" style="vertical-align: middle; border-radius: 12px; margin-right: 14px;" />
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="500" alt="Snake eating contributions" style="vertical-align: middle;" />
 </p>
+
+<!-- 🎵 Interactive Kitten Meow Music Player Card -->
+<table align="center" style="border-collapse: collapse; border: 2px solid #ff69b4; border-radius: 16px; background: rgba(255, 105, 180, 0.05); padding: 14px; margin: 12px auto; box-shadow: 0 4px 20px rgba(255, 105, 180, 0.2);">
+  <tr>
+    <td align="center">
+      <b>🐾 Kitten Audio Lounge & Music Player 🎶</b><br/>
+      <i>"Meowww! Click below to play the live kitten soundtrack while exploring my codebase!"</i><br/><br/>
+      <a href="https://raw.githubusercontent.com/KishorKumarParoi/KishorKumarParoi/main/assets/meow.mp3" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/▶️_PLAY_MEOWWW!-Listen_to_Cat_Audio_🐾-ff1493?style=for-the-badge&logo=apple-music&logoColor=white" alt="Play Meowww Audio" />
+      </a>
+      &nbsp;
+      <a href="https://3d.kishor.tech" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/🎵_3D_EDM_Radio-Cyberpunk_Audio_Mesh-00ffff?style=for-the-badge&logo=spotify&logoColor=black" alt="3D Music Player" />
+      </a>
+      <br/><br/>
+      <audio controls preload="none" style="height: 32px; width: 300px;">
+        <source src="https://raw.githubusercontent.com/KishorKumarParoi/KishorKumarParoi/main/assets/meow.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <b>🐾 <i>"Meowww! Welcome to my engineering profile!"</i></b> &nbsp;•&nbsp; 
-  <a href="https://raw.githubusercontent.com/KishorKumarParoi/KishorKumarParoi/main/assets/meow.mp3" target="_blank">
-    <img src="https://img.shields.io/badge/🔊_Audio-Meowww!-ff69b4?style=flat-square&logo=apple-music&logoColor=white" alt="Play Meow" style="vertical-align: middle;" />
-  </a> &nbsp;•&nbsp; 
   <b>🐍 <i>Live Snake eating contributions across the repository grid 24/7</i></b>
 </p>
 
@@ -63,6 +82,7 @@
 [![macOS Portfolio](https://img.shields.io/badge/macOS%20Portfolio-Live%20OS%20Web-0071e3?style=for-the-badge&logo=apple&logoColor=white)](https://macos-portofolio-virid.vercel.app/)
 [![re:invent 3D](https://img.shields.io/badge/re:invent-3D%20Experience-ff9900?style=for-the-badge&logo=three.js&logoColor=white)](https://re-invent-rust.vercel.app/)
 [![Koom-AI](https://img.shields.io/badge/Koom--AI-Video%20Platform-7928ca?style=for-the-badge&logo=vercel&logoColor=white)](https://koom.kishor.tech/)
+[![Meoww Audio](https://img.shields.io/badge/Meoww-Play%20Music%20🐾-ff1493?style=for-the-badge&logo=apple-music&logoColor=white)](https://raw.githubusercontent.com/KishorKumarParoi/KishorKumarParoi/main/assets/meow.mp3)
 
 <p align="center">
   <a href="https://linkedin.com/in/kishor-kumar-paroi-b06344166"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>

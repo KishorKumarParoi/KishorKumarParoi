@@ -5,7 +5,7 @@
 
 <!-- ⚡ Live Dynamic Animated Typing Terminal (Camo-Safe URL) -->
 <a href="https://kishor.tech">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=0071E3&center=true&vCenter=true&width=680&height=45&lines=Principal+AI+Systems+Architect+%7C+Distributed+Data+Leader;Founder+at+Koom-AI+(koom-ai.vercel.app);B.Sc.+in+CSE+from+RUET+(Merit+Rank+483rd+in+Bangladesh);High-Throughput+Distributed+Microservices+%26+Medallion+Lakehouse;Meowww!+Welcome+to+my+production+portfolio!" alt="Live Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=0071E3&center=true&vCenter=true&width=680&height=45&lines=Principal+AI+Systems+Architect+%7C+Distributed+Data+Leader;Founder+at+Koom-AI+(koom.kishor.tech);B.Sc.+in+CSE+from+RUET+(Merit+Rank+483rd+in+Bangladesh);High-Throughput+Distributed+Microservices+%26+Medallion+Lakehouse;Meowww!+Welcome+to+my+production+portfolio!" alt="Live Typing SVG" />
 </a>
 
 <!-- 🌈 Animated Neon Gradient Divider -->
@@ -18,8 +18,8 @@
 </p>
 <p align="center">
   <b>🐾 <i>"Meowww! Welcome to my engineering profile!"</i></b> &nbsp;•&nbsp; 
-  <a href="https://www.myinstants.com/media/sounds/meow.mp3" target="_blank">
-    <img src="https://img.shields.io/badge/🔊_Sound-Meowww!-ff69b4?style=flat-square&logo=apple-music&logoColor=white" alt="Play Meow" style="vertical-align: middle;" />
+  <a href="https://raw.githubusercontent.com/KishorKumarParoi/KishorKumarParoi/main/assets/meow.mp3" target="_blank">
+    <img src="https://img.shields.io/badge/🔊_Audio-Meowww!-ff69b4?style=flat-square&logo=apple-music&logoColor=white" alt="Play Meow" style="vertical-align: middle;" />
   </a> &nbsp;•&nbsp; 
   <b>🐍 <i>Live Snake eating contributions across the repository grid 24/7</i></b>
 </p>
@@ -32,7 +32,7 @@
 # 🌟 Kishor Kumar Paroi (KKP)
 
 ### **Principal AI Systems Architect • Enterprise Platform & Distributed Systems Leader**
-#### **Founder of [Koom-AI](https://koom-ai.vercel.app/) • RUET CSE (Merit Rank 483rd in Bangladesh)**
+#### **Founder of [Koom-AI](https://koom.kishor.tech/) • RUET CSE (Merit Rank 483rd in Bangladesh)**
 
 <p align="center">
   <b>💼 Industry Track Record:</b> 
@@ -62,7 +62,7 @@
 [![Live Telemetry](https://img.shields.io/badge/Telemetry-Live%20Visitors%20API-00c853?style=for-the-badge&logo=prometheus&logoColor=white)](https://re-invent-rust.vercel.app/api/visitors)
 [![macOS Portfolio](https://img.shields.io/badge/macOS%20Portfolio-Live%20OS%20Web-0071e3?style=for-the-badge&logo=apple&logoColor=white)](https://macos-portofolio-virid.vercel.app/)
 [![re:invent 3D](https://img.shields.io/badge/re:invent-3D%20Experience-ff9900?style=for-the-badge&logo=three.js&logoColor=white)](https://re-invent-rust.vercel.app/)
-[![Koom-AI](https://img.shields.io/badge/Koom--AI-Video%20Platform-7928ca?style=for-the-badge&logo=vercel&logoColor=white)](https://koom-ai.vercel.app/)
+[![Koom-AI](https://img.shields.io/badge/Koom--AI-Video%20Platform-7928ca?style=for-the-badge&logo=vercel&logoColor=white)](https://koom.kishor.tech/)
 
 <p align="center">
   <a href="https://linkedin.com/in/kishor-kumar-paroi-b06344166"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -359,7 +359,7 @@ Principal Systems Architect and Founder with extensive background in **Distribut
 - **Founder Architecture**: Distributed screen recording and real-time video intelligence platform serving **10,000+ user sessions**.
 - **Streaming Engine**: Manifest V3 Chrome Extension capturing synchronized tab/microphone audio mixing; Express backend with AWS S3 parallel multipart uploads and CloudFront CDN delivery.
 - **Performance & Monetization**: 58% faster First Contentful Paint (FCP) via React Server Components; end-to-end Stripe billing engine generating **$24K MRR in enterprise pilot adoption**.
-- 🚀 **Live Platform**: [koom-ai.vercel.app](https://koom-ai.vercel.app/) • 🔗 **Repository**: [KishorKumarParoi/koom-ai](https://github.com/KishorKumarParoi/koom-ai) • [README.md](https://github.com/KishorKumarParoi/koom-ai/blob/main/README.md) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/koom-ai/blob/main/ARCHITECTURE.md) • [docs/images](https://github.com/KishorKumarParoi/koom-ai/tree/main/docs/images)
+- 🚀 **Live Platform**: [koom.kishor.tech](https://koom.kishor.tech/) • 🔗 **Repository**: [KishorKumarParoi/koom-ai](https://github.com/KishorKumarParoi/koom-ai) • [README.md](https://github.com/KishorKumarParoi/koom-ai/blob/main/README.md) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/koom-ai/blob/main/ARCHITECTURE.md) • [docs/images](https://github.com/KishorKumarParoi/koom-ai/tree/main/docs/images)
 
 ---
 
@@ -486,7 +486,7 @@ Principal Systems Architect and Founder with extensive background in **Distribut
 
 ### 🌟 Founder Experience & Startup Platform: KoomAI *(Jan 2025 – Dec 2025)*
 
-> **High-Performance Asynchronous Video Intelligence Platform (Loom Alternative)** • [Live Demo](https://koom-ai.vercel.app/) • [GitHub Full-Stack](https://github.com/KishorKumarParoi/Koom-AI) • [Desktop](https://github.com/KishorKumarParoi/Koom-ai-desktop) • [Extension](https://github.com/KishorKumarParoi/Koom-AI-Chrome-Extension) • [Backend](https://github.com/KishorKumarParoi/koom-ai-express)
+> **High-Performance Asynchronous Video Intelligence Platform (Loom Alternative)** • [Live Demo](https://koom.kishor.tech/) • [GitHub Full-Stack](https://github.com/KishorKumarParoi/Koom-AI) • [Desktop](https://github.com/KishorKumarParoi/Koom-ai-desktop) • [Extension](https://github.com/KishorKumarParoi/Koom-AI-Chrome-Extension) • [Backend](https://github.com/KishorKumarParoi/koom-ai-express)
 
 - **WebRTC Low-Latency Engine**: Devised real-time WebRTC media pipeline (**<120ms** glass-to-glass latency) with adaptive bitrate streaming (SVC) and packet-loss concealment; sustained **60 FPS 1080p video with 0% stutter across 50K+ active video minutes (-45% CPU)**.
 - **ElectronJS Desktop Client**: Crafted cross-platform desktop application leveraging native OS-level IPC audio/display capture, hardware-accelerated NVENC/VideoToolbox encoding, and background daemon; curtailed idle CPU utilization by **45%**.

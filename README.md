@@ -49,7 +49,7 @@
 
 # 🌟 Kishor Kumar Paroi (KKP)
 
-### **Principal AI Systems Architect • Enterprise Platform & Distributed Systems Leader**
+### **AI Systems Architect | (Dev/ML/LLM/AI)Ops | Founder@KoomAI | FDE(LangGraph, Kubernetes, Kubeflow, GCP, Hybrid RAG<35ms, Agent Mesh, AI Security) | vLLM, Finetune | Data Engineer(Azure, AWS, Databricks, Snowflake) | Rust SIMD**
 #### **Founder of [Koom-AI](https://koom.kishor.tech/) • RUET CSE (Merit Rank 483rd in Bangladesh)**
 
 <p align="center">

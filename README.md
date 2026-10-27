@@ -505,13 +505,12 @@ Principal Systems Architect and Founder with extensive background in **Distribut
 
 ### 🌟 Founder Experience & Startup Platform: KoomAI *(Jan 2025 – Dec 2025)*
 
-> **High-Performance Asynchronous Video Intelligence Platform (Loom Alternative)** • [Live Demo](https://koom.kishor.tech/) • [GitHub Full-Stack](https://github.com/KishorKumarParoi/Koom-AI) • [Desktop](https://github.com/KishorKumarParoi/Koom-ai-desktop) • [Extension](https://github.com/KishorKumarParoi/Koom-AI-Chrome-Extension) • [Backend](https://github.com/KishorKumarParoi/koom-ai-express)
+> **Autonomous Remote Engineering & Video Intelligence Operating System** • [Live Demo: koom.kishor.tech](https://koom.kishor.tech/) • [Full-Stack Next.js](https://github.com/KishorKumarParoi/Koom-AI) • [Desktop Client](https://github.com/KishorKumarParoi/Koom-ai-desktop) • [Chrome Extension](https://github.com/KishorKumarParoi/Koom-AI-Chrome-Extension) • [Backend API](https://github.com/KishorKumarParoi/koom-ai-express)
 
-- **WebRTC Low-Latency Engine**: Devised real-time WebRTC media pipeline (**<120ms** glass-to-glass latency) with adaptive bitrate streaming (SVC) and packet-loss concealment; sustained **60 FPS 1080p video with 0% stutter across 50K+ active video minutes (-45% CPU)**.
-- **ElectronJS Desktop Client**: Crafted cross-platform desktop application leveraging native OS-level IPC audio/display capture, hardware-accelerated NVENC/VideoToolbox encoding, and background daemon; curtailed idle CPU utilization by **45%**.
-- **Chrome Extension (Manifest V3)**: Developed lightweight screen-recording browser extension utilizing offscreen documents for synchronized tab/mic audio mixing, capturing **10K+ user recordings**.
-- **Next.js 16 Cockpit & Express CDN**: Built responsive cockpit with **Next.js 16 App Router**, Express backend with **AWS S3 multipart uploads** and CloudFront delivery; accelerated FCP by **58%** and slashed video storage expenses by **62%**.
-- **Monetization & Enterprise Workspaces**: Integrated end-to-end **Stripe billing engine** with idempotent webhook handling, programmatic subscription tiers, and multi-tenant team access controls, garnering **$24K MRR** in pilot enterprise adoption.
+- **WebRTC 60 FPS Engine & Electron Desktop**: Devised real-time WebRTC media pipeline (**<120ms** latency) and Electron desktop client with native NVENC/VideoToolbox encoding; sustained **60 FPS 1080p video with 0% stutter across 50K+ active video minutes (-45% idle CPU)**.
+- **Autonomous 20-Agent Mesh & Video Copilot**: Deployed 20 concurrent **LangGraph** specialist agents (**<35ms p99**) and interactive video chatbot copilot generating 1-click GitHub PRs, Jira BDD stories, and Playwright E2E tests over Whisper transcripts.
+- **Personal NotebookLLM Studio & AI Job Recon**: Built conversational two-host audio podcast generator, Principal Architect system design drills (Kafka, CDC, Feast, Saga), and automated **ai-job-search** Trojan Horse proposals with tailored ATS CVs.
+- **Pomodoro Chrome MV3 & Client Invoicing**: Engineered screen-recording extension with integrated **Pomodoro focus sprints**, tab usage monitor, and 432Hz meditation audio; coupled video deliverables with instant **Stripe client invoicing ($24K MRR pilot)**.
 
 ---
 

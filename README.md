@@ -23,11 +23,11 @@
     <td align="center">
       <b>🐾 Kitten Audio Lounge & Virtual Music Player 🎶</b><br/>
       <i>"Meowww! Click below to virtually play and pause the live kitten soundtrack — zero download!"</i><br/><br/>
-      <a href="https://kishor.tech/meow" target="_blank" rel="noopener noreferrer">
+      <a href="https://macos.kishor.tech/meow" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/▶️_PLAY_%2F_PAUSE_MEOWWW!-Virtual_Player_🐾-ff1493?style=for-the-badge&logo=apple-music&logoColor=white" alt="Play / Pause Meowww" />
       </a>
       &nbsp;
-      <a href="https://kishor.tech/sounds/meow.mp3" target="_blank" rel="noopener noreferrer">
+      <a href="https://macos.kishor.tech/sounds/meow.mp3" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/🔊_Instant_Stream-No_Download-ff69b4?style=for-the-badge&logo=soundcloud&logoColor=white" alt="Instant Stream" />
       </a>
       &nbsp;
@@ -77,11 +77,12 @@
 [![Resume PDF](https://img.shields.io/badge/Resume-Download%20PDF-641C26?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./resume.pdf)
 [![Single Column Resume](https://img.shields.io/badge/ATS%20Resume-Single%20Column%20PDF-8E2835?style=for-the-badge&logo=googledocs&logoColor=white)](./resume_single_column.pdf)
 [![Word Document](https://img.shields.io/badge/Resume-Word%20DOCX-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)](./resume.docx)
-[![Live Telemetry](https://img.shields.io/badge/Telemetry-Live%20Visitors%20API-00c853?style=for-the-badge&logo=prometheus&logoColor=white)](https://re-invent-rust.vercel.app/api/visitors)
-[![macOS Portfolio](https://img.shields.io/badge/macOS%20Portfolio-Live%20OS%20Web-0071e3?style=for-the-badge&logo=apple&logoColor=white)](https://macos-portofolio-virid.vercel.app/)
-[![re:invent 3D](https://img.shields.io/badge/re:invent-3D%20Experience-ff9900?style=for-the-badge&logo=three.js&logoColor=white)](https://re-invent-rust.vercel.app/)
-[![Koom-AI](https://img.shields.io/badge/Koom--AI-Video%20Platform-7928ca?style=for-the-badge&logo=vercel&logoColor=white)](https://koom.kishor.tech/)
-[![Meoww Audio](https://img.shields.io/badge/Meoww-Play%20Virtual%20🐾-ff1493?style=for-the-badge&logo=apple-music&logoColor=white)](https://kishor.tech/meow)
+[![Main Academic Portfolio](https://img.shields.io/badge/Main%20Portfolio-kishor.tech-641C26?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kishor.tech/)
+[![macOS Portfolio](https://img.shields.io/badge/macOS%20Portfolio-macos.kishor.tech-0071e3?style=for-the-badge&logo=apple&logoColor=white)](https://macos.kishor.tech/)
+[![3D re:invent](https://img.shields.io/badge/3D%20Platform-3d.kishor.tech-ff9900?style=for-the-badge&logo=three.js&logoColor=white)](https://3d.kishor.tech/)
+[![3D Cyber Hacker](https://img.shields.io/badge/Hacker%20Cockpit-hacker.kishor.tech-00ffff?style=for-the-badge&logo=gnometerminal&logoColor=black)](https://hacker.kishor.tech/)
+[![Koom-AI](https://img.shields.io/badge/Koom--AI-koom.kishor.tech-7928ca?style=for-the-badge&logo=vercel&logoColor=white)](https://koom.kishor.tech/)
+[![Meoww Audio](https://img.shields.io/badge/Meoww-Play%20Virtual%20🐾-ff1493?style=for-the-badge&logo=apple-music&logoColor=white)](https://macos.kishor.tech/meow)
 
 <p align="center">
   <a href="https://linkedin.com/in/kishor-kumar-paroi-b06344166"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -387,7 +388,7 @@ Principal Systems Architect and Founder with extensive background in **Distribut
 
 - **Architecture**: High-performance 3D portfolio ecosystem with React 19.2, Rolldown Vite, and Tailwind CSS v4; GSAP 3.13 + ScrollTrigger 3D camera choreography and interactive Bento showcase grids.
 - **Live Telemetry API**: Distributed visitor telemetry engine powered by Supabase PostgreSQL with anti-tamper session rate-limiting, serving real-time analytics to global dashboards in <100ms.
-- 🚀 **Live Platform**: [re-invent-rust.vercel.app](https://re-invent-rust.vercel.app/) • 📊 [Live Visitor Telemetry API](https://re-invent-rust.vercel.app/api/visitors) • 🔗 **Repository**: [KishorKumarParoi/re-invent](https://github.com/KishorKumarParoi/re-invent) • [README.md](https://github.com/KishorKumarParoi/re-invent/blob/main/README.md) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/re-invent/blob/main/ARCHITECTURE.md) • [docs/images](https://github.com/KishorKumarParoi/re-invent/tree/main/docs/images)
+- 🚀 **Live Platform**: [3d.kishor.tech](https://3d.kishor.tech/) • 📊 [Live Visitor Telemetry API](https://3d.kishor.tech/api/visitors) • 🔗 **Repository**: [KishorKumarParoi/re-invent](https://github.com/KishorKumarParoi/re-invent) • [README.md](https://github.com/KishorKumarParoi/re-invent/blob/main/README.md) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/re-invent/blob/main/ARCHITECTURE.md) • [docs/images](https://github.com/KishorKumarParoi/re-invent/tree/main/docs/images)
 
 ---
 
@@ -400,7 +401,7 @@ Principal Systems Architect and Founder with extensive background in **Distribut
   - **Fire Spark Terminal**: Particle emitter spawning glowing embers on keystrokes with CLI tech-stack querying.
   - **Sacred OM (ॐ) Alignment**: 12 project folders arranged in the sacred Hindu Sanskriti OM contour with zero center obstruction.
   - **Dark Glassmorphism Contact Me**: Ambient glowing orbs, profile ring with online indicator, and one-click WhatsApp/Email triggers.
-- 🚀 **Live Desktop OS**: [macos-portofolio-virid.vercel.app](https://macos-portofolio-virid.vercel.app/) • 🔗 **Repository**: [KishorKumarParoi/macos-portofolio](https://github.com/KishorKumarParoi/macos-portofolio) • [README.md](https://github.com/KishorKumarParoi/macos-portofolio/blob/main/README.md) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/macos-portofolio/blob/main/ARCHITECTURE.md) • [docs/images](https://github.com/KishorKumarParoi/macos-portofolio/tree/main/docs/images)
+- 🚀 **Live Desktop OS**: [macos.kishor.tech](https://macos.kishor.tech/) • 🔗 **Repository**: [KishorKumarParoi/macos-portofolio](https://github.com/KishorKumarParoi/macos-portofolio) • [README.md](https://github.com/KishorKumarParoi/macos-portofolio/blob/main/README.md) • [ARCHITECTURE.md](https://github.com/KishorKumarParoi/macos-portofolio/blob/main/ARCHITECTURE.md) • [docs/images](https://github.com/KishorKumarParoi/macos-portofolio/tree/main/docs/images)
 
 ---
 
@@ -598,7 +599,7 @@ Principal Systems Architect and Founder with extensive background in **Distribut
 
 Whether you are looking for a **Principal AI/ML Systems Architect**, an enterprise **Lakehouse & MLOps Leader**, or want to collaborate on high-throughput distributed systems:
 
-**[Email Me](mailto:Kishor.ruet.cse@gmail.com)** • **[WhatsApp (+880 1724-714-156)](https://wa.me/8801724714156?text=Hi%20Kishor,%20I%20saw%20your%20GitHub%20profile.)** • **[LinkedIn](https://linkedin.com/in/kishor-kumar-paroi)** • **[macOS Portfolio](https://macos-portofolio-virid.vercel.app/)** • **[3D re:invent Platform](https://re-invent-rust.vercel.app/)**
+**[Email Me](mailto:Kishor.ruet.cse@gmail.com)** • **[WhatsApp (+880 1724-714-156)](https://wa.me/8801724714156?text=Hi%20Kishor,%20I%20saw%20your%20GitHub%20profile.)** • **[LinkedIn](https://linkedin.com/in/kishor-kumar-paroi)** • **[Main Academic Portfolio](https://kishor.tech/)** • **[macOS Portfolio](https://macos.kishor.tech/)** • **[3D re:invent Platform](https://3d.kishor.tech/)** • **[Hacker Cockpit](https://hacker.kishor.tech/)**
 
 *Crafted with precision, algorithmic rigor, and beast-level engineering excellence.*
 

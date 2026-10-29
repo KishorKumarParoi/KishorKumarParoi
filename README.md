@@ -74,15 +74,20 @@
 <br>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=KishorKumarParoi&label=Profile%20Views&color=641c26&style=for-the-badge)](https://github.com/KishorKumarParoi)
-[![Resume PDF](https://img.shields.io/badge/Resume-Download%20PDF-641C26?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./resume.pdf)
-[![Single Column Resume](https://img.shields.io/badge/ATS%20Resume-Single%20Column%20PDF-8E2835?style=for-the-badge&logo=googledocs&logoColor=white)](./resume_single_column.pdf)
-[![Word Document](https://img.shields.io/badge/Resume-Word%20DOCX-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)](./resume.docx)
+[![Executive CV (1-Page)](https://img.shields.io/badge/Executive_CV-1--Page%20PDF%20(ATS%20100)-A02020?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://kishor.tech/resume.pdf)
+[![ATS Resume (2-Page)](https://img.shields.io/badge/ATS_Resume-2--Page%20PDF%20(ATS%20100)-1a1a1a?style=for-the-badge&logo=files&logoColor=white)](https://kishor.tech/resume_single_column.pdf)
 [![Main Academic Portfolio](https://img.shields.io/badge/Main%20Portfolio-kishor.tech-641C26?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kishor.tech/)
 [![macOS Portfolio](https://img.shields.io/badge/macOS%20Portfolio-macos.kishor.tech-0071e3?style=for-the-badge&logo=apple&logoColor=white)](https://macos.kishor.tech/)
 [![3D re:invent](https://img.shields.io/badge/3D%20Platform-3d.kishor.tech-ff9900?style=for-the-badge&logo=three.js&logoColor=white)](https://3d.kishor.tech/)
 [![3D Cyber Hacker](https://img.shields.io/badge/Hacker%20Cockpit-hacker.kishor.tech-00ffff?style=for-the-badge&logo=gnometerminal&logoColor=black)](https://hacker.kishor.tech/)
 [![Koom-AI](https://img.shields.io/badge/Koom--AI-koom.kishor.tech-7928ca?style=for-the-badge&logo=vercel&logoColor=white)](https://koom.kishor.tech/)
 [![Meoww Audio](https://img.shields.io/badge/Meoww-Play%20Virtual%20🐾-ff1493?style=for-the-badge&logo=apple-music&logoColor=white)](https://macos.kishor.tech/meow)
+
+### 📜 Official Verified Resumes (ATS 100/100)
+| Format | Document | Specifications & ATS Score | Direct Download & Links |
+| :--- | :--- | :--- | :--- |
+| **Executive CV** | [`resume.pdf`](./resume.pdf) | **Strict 1-Page A4 PDF &bull; 100/100 ATS Score:** High-DPI layout, RUET CSE credentials, 61 quantified metrics, competitive programming track record. | [📥 **Download 1-Page Visual Resume**](https://kishor.tech/resume.pdf) &bull; [GitHub Raw](https://raw.githubusercontent.com/KishorKumarParoi/KishorKumarParoi/main/resume.pdf) |
+| **Comprehensive ATS** | [`resume_single_column.pdf`](./resume_single_column.pdf) | **Comprehensive 2-Page A4 PDF &bull; 100/100 ATS Score:** 97 quantified metrics, deep architectural breakdown across all systems, zero PUA glyphs. | [📥 **Download 2-Page ATS Resume**](https://kishor.tech/resume_single_column.pdf) &bull; [GitHub Raw](https://raw.githubusercontent.com/KishorKumarParoi/KishorKumarParoi/main/resume_single_column.pdf) |
 
 <p align="center">
   <a href="https://linkedin.com/in/kishor-kumar-paroi-b06344166"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>

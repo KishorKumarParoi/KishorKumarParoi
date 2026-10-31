@@ -588,12 +588,12 @@ Principal Systems Architect and Founder with extensive background in **Distribut
 ## 📊 Live GitHub Activity & Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KishorKumarParoi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kishor's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KishorKumarParoi&theme=tokyonight&hide_border=true" alt="Kishor's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=KishorKumarParoi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kishor's GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=KishorKumarParoi&theme=tokyonight&hide_border=true" alt="Kishor's GitHub Streak" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KishorKumarParoi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KishorKumarParoi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
 </div>
 
 ---

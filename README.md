@@ -52,7 +52,14 @@
 
 ---
 
-## 🏛️ Executive Profile & Pedigree
+## 🏛️ Executive Profile & First-Principles Ethos
+
+> **From Bangladesh. Figured most of it out from first principles.**  
+> Question everything. Rebuild from scratch — from bare-metal CUDA kernels and Rust SIMD engines to sub-500ms voice AI agents. Refuse to accept that something can't be done differently.  
+> Two things building on the side — can't talk about them yet.  
+> Planning to rotate through the world's top innovation hubs. **For now, Dhaka.**  
+> Favorite color: `#000000`.  
+> *I value people bold enough to tackle the impossible, curious enough to challenge the status quo, and relentless enough to build tomorrow's world.* **If that's you — [let's talk](mailto:kishor.ruet.cse@gmail.com).**
 
 Principal AI Systems Architect and Founder combining **first-principles mathematical rigor** with **low-level systems speed**. Building across **Real-Time Voice AI (`<400ms–500ms`)**, **Bare-Metal CUDA/Rust Kernels**, **Multi-Cloud Medallion Lakehouses**, and **Zero-Trust Autonomous Agentic AI (LangGraph, FastMCP, vLLM, NeMo Guardrails)**.
 
@@ -194,7 +201,7 @@ Principal AI Systems Architect and Founder combining **first-principles mathemat
 
 <div align="center">
 
-### 🤝 Let's Build Mission-Critical AI & Distributed Systems
+### 🖤 Bold enough to tackle the impossible? If that's you — let's talk.
 
 **[📄 1-Page Executive CV (PDF)](https://kishor.tech/resume.pdf?v=20261111-2)** &nbsp;•&nbsp;
 **[📑 2-Page ATS Resume (PDF)](https://kishor.tech/resume_single_column.pdf?v=20261111-2)** &nbsp;•&nbsp;

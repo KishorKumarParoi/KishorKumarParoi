@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 🌊 Sleek Executive Minimal Gradient Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Kishor%20Kumar%20Paroi&fontSize=40&fontAlignY=36&animation=twinkling&desc=Principal%20AI%20Systems%20Architect%20•%20Distributed%20Data%20%26%20Voice%20AI%20Leader&descSize=16&descAlignY=62" width="100%" alt="Kishor Kumar Paroi Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Kishor%20Kumar%20Paroi&fontSize=40&fontAlignY=36&animation=twinkling&desc=Principal%20AI%20Systems%20Architect%20%E2%80%A2%20Distributed%20Data%20and%20Voice%20AI%20Leader&descSize=16&descAlignY=62" width="100%" alt="Kishor Kumar Paroi Header" />
 
 <!-- ⚡ Live Dynamic Terminal Typing Header -->
 <a href="https://kishor.tech">
@@ -12,13 +12,13 @@
 
 <!-- 📜 Primary Resume & Portfolio Badges -->
 <p align="center">
-  <a href="https://kishor.tech/resume.pdf?v=20261111-2"><img src="https://img.shields.io/badge/1--Page_Visual_CV-PDF_(100%2F100_ATS)-A02020?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="1-Page Visual CV PDF" /></a>
+  <a href="https://kishor.tech/resume.pdf?v=20261111-2"><img src="https://img.shields.io/badge/1--Page_Visual_CV-PDF_(100%2F100_ATS)-A02020?style=for-the-badge&logo=readdotcv&logoColor=white" alt="1-Page Visual CV PDF" /></a>
   &nbsp;
   <a href="https://kishor.tech/resume_single_column.pdf?v=20261111-2"><img src="https://img.shields.io/badge/2--Page_ATS_Resume-Full_Technical_PDF-111827?style=for-the-badge&logo=files&logoColor=white" alt="2-Page Technical ATS Resume PDF" /></a>
   &nbsp;
   <a href="https://kishor.tech/"><img src="https://img.shields.io/badge/Portfolio-kishor.tech-641C26?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Main Portfolio" /></a>
   &nbsp;
-  <a href="https://pptx.kishor.tech/"><img src="https://img.shields.io/badge/Executive_Deck-pptx.kishor.tech-F59E0B?style=for-the-badge&logo=microsoftpowerpoint&logoColor=black" alt="Executive Pitch Deck" /></a>
+  <a href="https://pptx.kishor.tech/"><img src="https://img.shields.io/badge/Executive_Deck-pptx.kishor.tech-F59E0B?style=for-the-badge&logo=googleslides&logoColor=black" alt="Executive Pitch Deck" /></a>
 </p>
 
 <!-- 🚀 Live Flagship Systems Badges -->
@@ -41,11 +41,11 @@
   <a href="https://linkedin.com/in/kishor-kumar-paroi-b06344166"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:kishor.ruet.cse@gmail.com"><img src="https://img.shields.io/badge/Email-kishor.ruet.cse@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://wa.me/8801724714156?text=Hi%20Kishor,%20I%20saw%20your%20GitHub%20profile."><img src="https://img.shields.io/badge/WhatsApp-+8801724714156-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="tel:+16172718180"><img src="https://img.shields.io/badge/Live_AI_PSTN-+1_(617)_271--8180-E11D48?style=flat-square&logo=vapi&logoColor=white" alt="Live Sophia AI Phone" /></a>
+  <a href="tel:+16172718180"><img src="https://img.shields.io/badge/Live_AI_PSTN-+1_(617)_271--8180-E11D48?style=flat-square&logo=asterisk&logoColor=white" alt="Live Sophia AI Phone" /></a>
   <a href="https://x.com/Mr_paroi"><img src="https://img.shields.io/badge/X-@Mr__paroi-000000?style=flat-square&logo=x&logoColor=white" alt="X / Twitter" /></a>
   <a href="https://codeforces.com/profile/Kishor_Kumar"><img src="https://img.shields.io/badge/Codeforces-Div2_Rank_232-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
   <a href="https://leetcode.com/u/KishorKumarParoi/"><img src="https://img.shields.io/badge/DSA-2%2C000%2B_Solved-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="2000+ DSA" /></a>
-  <a href="https://codechef.com/users/kishor_ruet"><img src="https://img.shields.io/badge/CodeChef-5★_Coder-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+  <a href="https://codechef.com/users/kishor_ruet"><img src="https://img.shields.io/badge/CodeChef-5%E2%98%85_Coder-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef" /></a>
 </p>
 
 </div>

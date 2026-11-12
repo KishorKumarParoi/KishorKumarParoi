@@ -111,7 +111,7 @@ Principal AI Systems Architect and Founder combining **first-principles mathemat
 | :--- | :--- | :--- | :--- |
 | **⚡ CUDA FlashAttention-2/3** | Bare-Metal CUDA C++ • Tiled Online Softmax • Split-KV • PagedAttention • FP8 | **8x** decode speedup, **100% SM occupancy**, **`<4%` KV waste**, 39 PyTorch parity suites | [Code](https://github.com/KishorKumarParoi/cuda-attention-kernel) • [Architecture](https://github.com/KishorKumarParoi/cuda-attention-kernel/blob/main/docs/ARCHITECTURE.md) |
 | **🧠 Distributed LLM 4D Grid** | Megatron TP • Interleaved 1F1B PP • ZeRO-3 FSDP • Ring Attention • Async DCP | **49.07% MFU** on `64× H100`, **`-70%` bubble**, 1M+ context overlap, 24 unit test suites | [Code](https://github.com/KishorKumarParoi/distributed-llm-training) • [Architecture](https://github.com/KishorKumarParoi/distributed-llm-training/blob/main/docs/ARCHITECTURE.md) |
-| **🦀 Rust Git Engine & Shell** | Bare-Metal Rust 1.85 • SHA-1 DAG • SIMD zlib • Async POSIX Shell | Matched C Git within 3% (**100% memory safe**), **`<1µs`** shell dispatch, **`-73%` peak heap** | [Code](https://github.com/KishorKumarParoi/codecrafters-git-rust) • [README](https://github.com/KishorKumarParoi/codecrafters-git-rust/blob/main/README.md) |
+| **🦀 Rust Git Engine & Shell** | Bare-Metal Rust 1.85 • SHA-1 DAG • SIMD zlib • Async POSIX Shell | Matched C Git within 3% (**100% memory safe**), **`<1µs`** shell dispatch, **`-73%` peak heap** | [Code](https://github.com/KishorKumarParoi/codecrafters-git-rust) • [README](https://github.com/KishorKumarParoi/codecrafters-git-rust/blob/master/README.md) |
 
 ### 🌐 4. Startups, 3D WebGL Platforms, Multimodal & Open Source
 | Project | Stack & Core Engineering | Highlights & Benchmarks | Links |

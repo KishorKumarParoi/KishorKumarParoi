@@ -201,7 +201,7 @@ Principal AI Systems Architect and Founder combining **first-principles mathemat
 ## 💼 Industry Experience & Competitive Record
 
 * **🎙️ Omnichannel AI Solutions • Lead Voice AI & Systems Architect** *(Sept 2026 – Present)*  
-  Launched live 6-vertical AI Voice & Chat Receptionist SaaS serving PSTN ([`+1 (617) 271-8180`](tel:+16172718180)), WebRTC (`/vapi-call`), and 8+ social webhooks with **sub-500ms turnaround**, **Clerk + Neon PG**, **2-way Google Calendar v3**, **Twilio 24h/1h cron**, and **n8n + Slack**. [**Live → ai-voice-receptionist.kishor.tech**](https://ai-voice-receptionist.kishor.tech/)
+  Architected and launched the full-stack autonomous AI Voice & Omnichannel Operating System for luxury businesses ([`ai-voice-receptionist.kishor.tech`](https://ai-voice-receptionist.kishor.tech/)). Serves live Telnyx PSTN cellular calling ([`+1 (617) 271-8180`](tel:+16172718180)), WebRTC, and Meta WhatsApp/Instagram/Messenger with **sub-450ms turnaround**, **multi-market EBITDA financial intelligence (USA 🇺🇸, UK 🇬🇧, Canada 🇨🇦, Europe 🇪🇺)**, **Resend API executive dispatches**, **6-hour automated review interceptors**, and **Neon PostgreSQL atomic calendar sync**.
 * **🚀 phi0.ai • Forward Deployed AI Engineer** *(Jul 2026 – Oct 2026 • Europe | Remote)*  
   Deployed **5 concurrent autonomous LangGraph agents** (`99.4%` completion, `4x` onboarding) + `<35ms` Hybrid RAG (**FlashRank ONNX + Cohere v3.5**), slashing hallucinations by **46%**, saving **$18K/mo**, and driving **$1.4M in enterprise contracts**.
 * **🏢 Samsung AI Core / Care Health • Data & AI Systems Intern** *(Mar 2026 – Jun 2026)*  
@@ -229,7 +229,7 @@ Principal AI Systems Architect and Founder combining **first-principles mathemat
 
 <div align="center">
 
-### 💙 Done funding thin GPT wrappers? Let's talk.
+### 💙 Done funding thin GPT wrappers? Looking for a principal systems architect who ships sub-500ms voice pipelines, CUDA kernels, and autonomous operating systems? Let's talk.
 
 **[📄 1-Page Executive CV (PDF)](https://kishor.tech/resume.pdf?v=20261111-2)** &nbsp;•&nbsp;
 **[📑 2-Page ATS Resume (PDF)](https://kishor.tech/resume_single_column.pdf?v=20261111-2)** &nbsp;•&nbsp;

@@ -106,7 +106,7 @@ Principal AI Systems Architect and Founder combining **first-principles mathemat
 
 | 🎯 Domain | ⚙️ Architecture & Engineering | 📈 Verified Impact |
 | :--- | :--- | :--- |
-| **🎙️ Omnichannel Voice AI** | Vapi Squad (Marcus↔Sophia) • Deepgram Nova-2 (`<180ms`) • FastAPI (`<40ms`) • Cartesia Sonic-3.5 (`<110ms`) | **Sub-500ms** turnaround across PSTN [`+1 (617) 271-8180`](tel:+16172718180), WebRTC & 8+ channels |
+| **🎙️ Omnichannel Voice AI & Salon OS** | Telnyx PSTN • Vapi Squad • Deepgram Nova-2 (`<160ms`) • Cartesia Sonic-3.5 (`<100ms`) • Resend API • Neon PG | **Sub-450ms** E2E across Cellular PSTN [`+1 (617) 271-8180`](tel:+16172718180), WhatsApp, WebRTC & EBITDA OS (USA/UK/CA/EU) |
 | **🗣️ Nimbus 5-Agent Suite** | From-scratch LiveKit WebRTC • FastAPI • GPT-4o / Whisper • ElevenLabs Turbo v2.5 • 60fps waveform | **Sub-400ms** E2E voice roundtrips across **5 live specialized agents** |
 | **⚡ CUDA FlashAttention-2/3** | Tiled Online Softmax • Split-KV Flash-Decoding • PagedAttention • FP8 (`E4M3`/`E5M2`) | **8x** lower decode latency, **100% SM occupancy**, **`<4%` KV waste** (39 test suites) |
 | **🧠 4D Distributed LLM Grid** | Megatron TP • Interleaved 1F1B PP • ZeRO-3 FSDP • Ring Attention • Async DCP | **49.07% MFU** on 64× NVIDIA H100s, **`-70%` bubble**, 1M+ context (24 test suites) |
@@ -165,21 +165,21 @@ Principal AI Systems Architect and Founder combining **first-principles mathemat
 
 <table align="center" width="100%">
   <tr>
-    <td width="24%" valign="top"><strong>🤖 AI, Voice &amp; LLMOps</strong></td>
+    <td width="24%" valign="top"><strong>🤖 Voice AI &amp; LLMOps</strong></td>
     <td>
-      <code>PyTorch</code> • <code>vLLM Multi-LoRA</code> • <code>FlashAttention-2/3</code> • <code>DeepSpeed ZeRO-3</code> • <code>LangGraph</code> • <code>FastMCP</code> • <code>Vapi Squad</code> • <code>LiveKit WebRTC</code> • <code>Deepgram Nova-2</code> • <code>Cartesia Sonic-3.5</code> • <code>ElevenLabs Turbo v2.5</code> • <code>NVIDIA NeMo Guardrails</code> • <code>LangSmith</code> • <code>LangFuse</code> • <code>DeepEval</code> • <code>RAGAS</code> • <code>PyRIT</code> • <code>MLflow</code> • <code>Kubeflow</code> • <code>Feast</code>
+      <code>Telnyx PSTN / SIP</code> • <code>Vapi Squad</code> • <code>LiveKit WebRTC</code> • <code>Deepgram Nova-2</code> • <code>Cartesia Sonic-3.5</code> • <code>ElevenLabs Turbo v2.5</code> • <code>vLLM Multi-LoRA</code> • <code>FlashAttention-2/3</code> • <code>DeepSpeed ZeRO-3</code> • <code>LangGraph</code> • <code>FastMCP</code> • <code>NVIDIA NeMo Guardrails</code> • <code>LangSmith</code> • <code>LangFuse</code> • <code>DeepEval</code> • <code>RAGAS</code> • <code>PyRIT</code>
     </td>
   </tr>
   <tr>
     <td valign="top"><strong>⚙️ Polyglot &amp; Systems</strong></td>
     <td>
-      <code>Python 3.12 (FastAPI)</code> • <code>Rust 1.85 (SIMD, Actix)</code> • <code>Go 1.24 (Gin, Fiber)</code> • <code>C++ / CUDA</code> • <code>TypeScript / Node.js 22</code> • <code>Java (Spring Boot)</code> • <code>POSIX Shell</code>
+      <code>Python 3.12 (FastAPI)</code> • <code>Rust 1.85 (SIMD AVX-512, Actix)</code> • <code>Go 1.24 (Gin, Fiber)</code> • <code>C++ / CUDA C</code> • <code>TypeScript / Node.js 22</code> • <code>Java (Spring Boot)</code> • <code>POSIX Shell</code>
     </td>
   </tr>
   <tr>
-    <td valign="top"><strong>📊 Lakehouse &amp; Data</strong></td>
+    <td valign="top"><strong>📊 Data, Lakehouse &amp; Cloud</strong></td>
     <td>
-      <code>Snowflake</code> • <code>Azure Databricks</code> • <code>Delta Lake</code> • <code>dbt Core (SCD-2)</code> • <code>PySpark</code> • <code>Apache Kafka</code> • <code>Airflow (Astro)</code> • <code>Debezium CDC</code> • <code>DuckDB</code> • <code>Qdrant / ChromaDB</code> • <code>Neon Serverless PG</code> • <code>Redis</code> • <code>n8n</code>
+      <code>Neon Serverless PG</code> • <code>Snowflake</code> • <code>Azure Databricks</code> • <code>Delta Lake</code> • <code>dbt Core (SCD-2)</code> • <code>PySpark</code> • <code>Apache Kafka</code> • <code>Airflow (Astro)</code> • <code>Debezium CDC</code> • <code>DuckDB</code> • <code>Qdrant / ChromaDB</code> • <code>Redis</code> • <code>n8n</code> • <code>Resend API</code>
     </td>
   </tr>
   <tr>

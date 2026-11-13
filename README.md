@@ -78,6 +78,30 @@ Principal AI Systems Architect and Founder combining **first-principles mathemat
 
 ---
 
+## ⚡ Current Sprint: What I Am Shipping Right Now (Live Commit Telemetry)
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║  LATEST COMMIT: feat(market): add Europe (EUR) market with EU GDPR compliance, Telnyx PSTN + WhatsApp adaptive voice     ║
+║  ACTIVE SPRINT: Autonomous B2B Voice Receptionist & Salon Owner OS (USA 🇺🇸 • UK 🇬🇧 • Canada 🇨🇦 • Europe 🇪🇺)             ║
+║  LIVE PRODUCTION: https://ai-voice-receptionist.kishor.tech/ (Vercel Edge + Neon PostgreSQL + Telnyx PSTN + Resend API) ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+> **Currently shipping:** The world's most responsive **Omnichannel Autonomous AI Receptionist & Salon Owner Operating System** ([ai-voice-receptionist.kishor.tech](https://ai-voice-receptionist.kishor.tech/)), resolving phone calls, Instagram/Facebook DMs, and WhatsApp inquiries in under 450ms.
+
+* **📞 Dual-Layer Adaptive Voice Engine (`<450ms` RTT):** Zero-friction telephony that first attempts Meta WhatsApp Business calling and seamlessly falls back to carrier-grade **Telnyx PSTN cellular dialing** ([`+1 (617) 271-8180`](tel:+16172718180)) powered by **Cartesia Sonic-3.5** and **Deepgram Nova-2**.
+* **📊 Multi-Market Executive EBITDA Intelligence:** Automated real-time financial auditing across **USA (USD $)**, **UK (GBP £)**, **Canada (CAD $)**, and **Europe (EUR €)**, calculating gross booking revenue, front-desk wage savings, and delivering high-res HTML audits via **Resend API**.
+* **🛡️ Autonomous Crisis De-escalation & Warm Lead Re-Dialer:** Sophia AI pacification protocols with instant **Slack emergency alarms (`U0A57CPCBRC`)**, soothing SMS vouchers for frustrated guests, and autonomous outbound follow-up calls for unbooked high-intent leads.
+* **⭐ 6-Hour Automated Review Engine:** Automated post-service feedback invitations routing 5-star reviews directly to Google Maps and private detractor alerts to the owner's Slack before any public review is posted.
+* **🔒 ACID Scheduling & n8n Automation:** Atomic reservation sync with Google Calendar v3 and Neon PostgreSQL with pre-configured n8n blueprints for automated retention marketing.
+
+---
+
 ## ⚡ Quantified Production Impact
 
 | 🎯 Domain | ⚙️ Architecture & Engineering | 📈 Verified Impact |

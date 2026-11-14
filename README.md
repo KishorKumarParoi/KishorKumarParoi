@@ -217,12 +217,19 @@ Principal AI Systems Architect and Founder combining **first-principles mathemat
 ## 📊 Live GitHub Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=KishorKumarParoi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=KishorKumarParoi&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KishorKumarParoi&theme=tokyonight" alt="GitHub Profile Details" width="98%" />
 </div>
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KishorKumarParoi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="65%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KishorKumarParoi&theme=tokyonight" alt="GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=KishorKumarParoi&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
+</div>
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KishorKumarParoi&theme=tokyonight" alt="Top Languages by Commit" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KishorKumarParoi&theme=tokyonight" alt="Top Languages by Repo" width="49%" />
 </div>
 
 ---

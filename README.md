@@ -56,12 +56,15 @@
 
 <div align="left">
 
-> **Born in Bangladesh, raised by stack traces, and somehow still shipping from Dhaka.**  
-> Apparently *"that's just how the industry does it"* wasn't a convincing enough excuse — so I took the perfectly sensible route of questioning everything, torching the boilerplate, and rebuilding CUDA kernels, Rust SIMD engines, and sub-500ms voice agents from scratch.  
-> Currently incubating two stealth bets on the side (NDAs and healthy paranoia prevent further comment, though a good term sheet might jog my memory).  
-> Planning a tour of the world's top innovation hubs soon — for now, turning Dhaka espresso into unfair unit economics.  
-> Favorite color: **`#0066FF` Blue** (matches my Codeforces rating, the status LEDs when a build passes on the first try, and my tolerance for thin wrapper startups—oh wait, that's still zero).  
-> *If you're irrational enough to bet against consensus, allergic to the status quo, and relentless enough to fund or build what shouldn't work yet — [let's build what shouldn't work yet](mailto:kishor.ruet.cse@gmail.com).*
+> **Born in Bangladesh, raised by stack traces, and shipping from Dhaka.**
+> 
+> When people say *"that’s just how the industry does it,"* I take it as a design flaw. Instead of stacking boilerplate, I rebuild systems from bare metal — custom CUDA kernels, Rust SIMD engines, and sub-500ms voice agents from scratch.
+> 
+> Currently incubating two stealth bets on the side *(NDAs and healthy paranoia keep them quiet, though a good term sheet might jog my memory)*. Touring global innovation hubs soon — for now, turning Dhaka espresso into unfair unit economics.
+> 
+> Favorite color: **`#0066FF` Blue**. It matches my Codeforces rating, the terminal LEDs on a first-pass build, and my tolerance for thin GPT wrappers *(strictly zero)*.
+> 
+> *If you're irrational enough to bet against consensus, allergic to the status quo, and relentless enough to build what shouldn't work yet — [let’s talk](mailto:kishor.ruet.cse@gmail.com).*
 
 </div>
 

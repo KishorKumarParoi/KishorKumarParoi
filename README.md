@@ -258,19 +258,19 @@ Principal AI Systems Architect and Founder combining **first-principles mathemat
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KishorKumarParoi&theme=tokyonight" alt="GitHub Profile Details" width="98%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KishorKumarParoi&theme=tokyonight&v=20261126" alt="GitHub Profile Details" width="98%" />
 </div>
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KishorKumarParoi&theme=tokyonight" alt="GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=KishorKumarParoi&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KishorKumarParoi&theme=tokyonight&v=20261126" alt="GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=KishorKumarParoi&theme=tokyonight&hide_border=true&v=20261126" alt="GitHub Streak" width="49%" />
 </div>
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KishorKumarParoi&theme=tokyonight" alt="Top Languages by Commit" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KishorKumarParoi&theme=tokyonight" alt="Top Languages by Repo" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KishorKumarParoi&theme=tokyonight&v=20261126" alt="Top Languages by Commit" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KishorKumarParoi&theme=tokyonight&v=20261126" alt="Top Languages by Repo" width="49%" />
 </div>
 
 ---

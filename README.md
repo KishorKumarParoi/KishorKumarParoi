@@ -18,6 +18,10 @@
   &nbsp;
   <a href="https://kishor.tech/"><img src="https://img.shields.io/badge/Portfolio-kishor.tech-641C26?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Main Portfolio" /></a>
   &nbsp;
+  <a href="https://certificate.kishor.tech/"><img src="https://img.shields.io/badge/34_Verified_Certs-1%2C172.5_Hours-10B981?style=for-the-badge&logo=udemy&logoColor=white" alt="34 Verified Certificates Vault" /></a>
+  &nbsp;
+  <a href="https://aisoln.biz/"><img src="https://img.shields.io/badge/Founder-aisoln.biz-0284C7?style=for-the-badge&logo=probot&logoColor=white" alt="Omnichannel AI Solutions aisoln.biz" /></a>
+  &nbsp;
   <a href="https://pptx.kishor.tech/"><img src="https://img.shields.io/badge/Executive_Deck-pptx.kishor.tech-F59E0B?style=for-the-badge&logo=googleslides&logoColor=black" alt="Executive Pitch Deck" /></a>
 </p>
 
@@ -217,7 +221,41 @@ Principal AI Systems Architect and Founder combining **first-principles mathemat
 
 ---
 
-## 📊 Live GitHub Telemetry
+## 🎓 Verified Certifications & Audited Credentials (34 Certificates • 1,172.5 Hours)
+
+> All **34 completed certifications (`1,172.5` total audited hours)** across Agentic AI, Model Context Protocol (`MCP`), Hybrid RAG, `LLMOps`, Zero-Trust AI Security, Apache Iceberg Lakehouses, Multi-Cloud Architecture, and Competitive Algorithms are searchable with **original inline PDFs and Udemy cryptographic links** at **[certificate.kishor.tech](https://certificate.kishor.tech/)**.
+
+### ★ Top 10 Profile Picks (Audited Flagship Credentials)
+
+| # | Certification Title | Instructor(s) | Hours | Credential ID | Proof & PDF |
+| :-: | :--- | :--- | :-: | :--- | :--- |
+| **1** | **AI FDE: The Forward Deployed Engineer & Agentic AI Architect** | Ed Donner | 21.5h | `UC-43d06745-1f01-4459-8c70-a40fbe32da9a` | [PDF](https://certificate.kishor.tech/?pdf=ai-fde) • [Verify ↗](https://ude.my/UC-43d06745-1f01-4459-8c70-a40fbe32da9a) |
+| **2** | **AI Engineer Production Track: Deploy LLMs & Agents at Scale** | Ed Donner, Ligency | 18.5h | `UC-6ad5264d-f7e6-4dd4-a979-ac15d67d1c52` | [PDF](https://certificate.kishor.tech/?pdf=ai-production) • [Verify ↗](https://ude.my/UC-6ad5264d-f7e6-4dd4-a979-ac15d67d1c52) |
+| **3** | **AI Engineer Agentic Track: The Complete Agent & MCP Course** | Ed Donner, Ligency | 21h | `UC-3fd40475-7c50-4646-a07b-22c820c0c7cf` | [PDF](https://certificate.kishor.tech/?pdf=ai-agentic) • [Verify ↗](https://ude.my/UC-3fd40475-7c50-4646-a07b-22c820c0c7cf) |
+| **4** | **AI Engineer Core Track: LLM Engineering, RAG, QLoRA, Agents** | Ed Donner, Ligency | 33.5h | `UC-dfe1d249-4eef-4eee-a46b-f5a41fa62f4d` | [PDF](https://certificate.kishor.tech/?pdf=ai-engineer-core) • [Verify ↗](https://ude.my/UC-dfe1d249-4eef-4eee-a46b-f5a41fa62f4d) |
+| **5** | **AI Security Bootcamp: Guardrails, LLM Gateways & Observability** | Krish Naik, Sudhanshu Gusain, KRISHAI | 82h | `UC-94de281b-bb9d-4a38-b244-c80d2d6b849b` | [PDF](https://certificate.kishor.tech/?pdf=ai-security) • [Verify ↗](https://ude.my/UC-94de281b-bb9d-4a38-b244-c80d2d6b849b) |
+| **6** | **Complete MCP Bootcamp: Build Next-Gen AI Agents with MCP** | KRISHAI Technologies, DS with Bappy | 14.5h | `UC-52eafb0d-5232-4424-83bf-142bb74209c7` | [PDF](https://certificate.kishor.tech/?pdf=mcp) • [Verify ↗](https://ude.my/UC-52eafb0d-5232-4424-83bf-142bb74209c7) |
+| **7** | **Complete Agentic AI Bootcamp With LangGraph and Langchain** | Krish Naik, KRISHAI | 45.5h | `UC-615b3c7d-9c53-4090-a9b7-f0ddaaa9c4f7` | [PDF](https://certificate.kishor.tech/?pdf=agentic-ai) • [Verify ↗](https://ude.my/UC-615b3c7d-9c53-4090-a9b7-f0ddaaa9c4f7) |
+| **8** | **LLMOps And AIOps Bootcamp With 8 End To End Projects** | Sudhanshu Gusain, KRISHAI | 30h | `UC-5eca5b89-3eb8-46c8-bba0-4690cbb2f4f3` | [PDF](https://certificate.kishor.tech/?pdf=llmops) • [Verify ↗](https://ude.my/UC-5eca5b89-3eb8-46c8-bba0-4690cbb2f4f3) |
+| **9** | **Big Data Engineering Bootcamp with GCP and Azure Cloud** | Krish Naik, Mayank Aggarwal, KRISHAI | 74h | `UC-93b7fd6f-08a6-4c49-8914-0e6f2cd0659e` | [PDF](https://certificate.kishor.tech/?pdf=big-data-engineering) • [Verify ↗](https://ude.my/UC-93b7fd6f-08a6-4c49-8914-0e6f2cd0659e) |
+| **10** | **GCP Professional Cloud Architect: Google Cloud Certification** | Ranga Karanam, in28Minutes Official | 33.5h | `UC-900276eb-8b7f-4503-9e3c-70b12431cbfb` | [PDF](https://certificate.kishor.tech/?pdf=gcp) • [Verify ↗](https://ude.my/UC-900276eb-8b7f-4503-9e3c-70b12431cbfb) |
+
+**Additional 24 Verified Credentials across 6 Domains ([Browse All 34 at certificate.kishor.tech ↗](https://certificate.kishor.tech/)):**
+* **Data, Lakehouses & Databases:** *Apache Iceberg: MultiEngine Lakehouse (10h)* • *Fundamentals of Database Engineering — Hussein Nasser (31h)* • *Google Dataflow with Apache Beam (5.5h)* • *Complete Data Analyst Bootcamp (89h)*
+* **Cloud & MLOps / DevSecOps:** *Ultimate AWS Certified AI Practitioner AIF-C01 — Stephane Maarek (10h)* • *Beginner to Advanced MLOps on GCP K8s/Jenkins (54.5h)* • *Complete MLOps Bootcamp 10+ Projects (51h)* • *Full Stack AI DevOps AWS/Azure/GCP/K8S (40h)* • *MLOps Zero to Hero, DevOps Project & Interview Guide — Abhishek Veeramalla (40h combined)*
+* **Systems, Architecture & Algorithms:** *Software Architecture & Design of Modern Large Scale Systems (8h)* • *Low Level System Design & SOLID Principles — Prateek Narang (9h)* • *Competitive Programming Essentials (56.5h), Dynamic Programming (44.5h), Graph Theory (23h), C++ DSA (28h), Big Tech FAANG Coding Interview (37h)*
+* **GenAI, Vision & Automation:** *Complete Data Science/ML/DL/NLP Bootcamp (101.5h)* • *Complete Generative AI with LangChain & HF (70h)* • *Complete Computer Vision PyTorch & TF (59.5h)* • *AI Builder in n8n (14.5h)* • *Advanced Prompt Engineering (12h)* • *AI for Coding Cursor AI (4h)*
+
+---
+
+## 📊 Live Global System & GitHub Telemetry
+
+<div align="center">
+  <a href="https://macos.kishor.tech/api/visitors?inc=true">
+    <img src="https://macos.kishor.tech/api/visitors?format=svg&inc=true" alt="Live Global System Telemetry — Verified Readers across kishor.tech ecosystem" width="92%" />
+  </a>
+</div>
+<br/>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KishorKumarParoi&theme=tokyonight" alt="GitHub Profile Details" width="98%" />
@@ -243,10 +281,15 @@ Principal AI Systems Architect and Founder combining **first-principles mathemat
 
 **[📄 1-Page Executive CV (PDF)](https://kishor.tech/resume.pdf?v=20261111-2)** &nbsp;•&nbsp;
 **[📑 2-Page ATS Resume (PDF)](https://kishor.tech/resume_single_column.pdf?v=20261111-2)** &nbsp;•&nbsp;
+**[🎓 34 Certificates Vault](https://certificate.kishor.tech/)** &nbsp;•&nbsp;
+**[🚀 Omnichannel AI (aisoln.biz)](https://aisoln.biz/)** &nbsp;•&nbsp;
 **[🎙️ Voice SaaS](https://ai-voice-receptionist.kishor.tech/)** &nbsp;•&nbsp;
 **[🤖 5-Agent Suite](https://nimbus.kishor.tech/)** &nbsp;•&nbsp;
 **[💎 Pitch Deck](https://pptx.kishor.tech/)** &nbsp;•&nbsp;
 **[🌐 Portfolio](https://kishor.tech/)** &nbsp;•&nbsp;
+**[🍎 macOS](https://macos.kishor.tech/)** &nbsp;•&nbsp;
+**[👾 Hacker](https://hacker.kishor.tech/)** &nbsp;•&nbsp;
+**[🧊 3D](https://3d.kishor.tech/)** &nbsp;•&nbsp;
 **[🎬 4K Reel](https://www.youtube.com/watch?v=mqX-2FW3o0Q)**
 
 **[💼 LinkedIn](https://linkedin.com/in/kishor-kumar-paroi-b06344166)** &nbsp;•&nbsp;

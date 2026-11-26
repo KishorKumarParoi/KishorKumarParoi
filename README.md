@@ -264,7 +264,9 @@ Principal AI Systems Architect and Founder combining **first-principles mathemat
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KishorKumarParoi&theme=tokyonight&v=20261126" alt="GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=KishorKumarParoi&theme=tokyonight&hide_border=true&v=20261126" alt="GitHub Streak" width="49%" />
+  <a href="https://macos.kishor.tech/api/github-streak?user=KishorKumarParoi&format=json">
+    <img src="https://macos.kishor.tech/api/github-streak?user=KishorKumarParoi&v=20261126" alt="GitHub Streak (Live 267 Days)" width="49%" />
+  </a>
 </div>
 <br/>
 
